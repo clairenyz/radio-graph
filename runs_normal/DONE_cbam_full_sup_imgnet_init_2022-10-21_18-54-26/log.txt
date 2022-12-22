@@ -1,0 +1,1200 @@
+Epoch 0: train CE Loss:1.561; KLD Loss:0; Accuracy:1/8=0.125; Average Acc:0.0667; Kappa:-0.0746; MSE:2.25; lr:0.0001
+Epoch 0: train CE Loss:1.579; KLD Loss:0; Accuracy:472/1608=0.2935; Average Acc:0.24; Kappa:0.1236; MSE:2.4621; lr:0.0001
+Epoch 0: train CE Loss:1.511; KLD Loss:0; Accuracy:1063/3208=0.3314; Average Acc:0.2784; Kappa:0.2727; MSE:2.1206; lr:0.0001
+Epoch 0: train CE Loss:1.43; KLD Loss:0; Accuracy:1785/4808=0.3713; Average Acc:0.3205; Kappa:0.3849; MSE:1.8419; lr:0.0001
+Epoch 0: train CE Loss:1.372; KLD Loss:0; Accuracy:2540/6408=0.3964; Average Acc:0.3528; Kappa:0.4532; MSE:1.681; lr:0.0001
+Epoch 0: train CE Loss:1.322; KLD Loss:0; Accuracy:3328/8008=0.4156; Average Acc:0.3845; Kappa:0.4999; MSE:1.5453; lr:0.0001
+Epoch 0: train CE Loss:1.279; KLD Loss:0; Accuracy:4146/9608=0.4315; Average Acc:0.4064; Kappa:0.5319; MSE:1.4402; lr:0.0001
+Epoch 0: train CE Loss:1.241; KLD Loss:0; Accuracy:5033/11208=0.4491; Average Acc:0.4278; Kappa:0.5609; MSE:1.3556; lr:0.0001
+Epoch 0: train CE Loss:1.214; KLD Loss:0; Accuracy:5886/12808=0.4596; Average Acc:0.4456; Kappa:0.5846; MSE:1.2833; lr:0.0001
+Epoch 0: train CE Loss:1.184; KLD Loss:0; Accuracy:6806/14408=0.4724; Average Acc:0.4612; Kappa:0.6052; MSE:1.2199; lr:0.0001
+Epoch 0: train CE Loss:1.16; KLD Loss:0; Accuracy:7754/16008=0.4844; Average Acc:0.474; Kappa:0.6212; MSE:1.1698; lr:0.0001
+Epoch 0: train CE Loss:1.136; KLD Loss:0; Accuracy:8712/17608=0.4948; Average Acc:0.4873; Kappa:0.6359; MSE:1.1215; lr:0.0001
+Epoch 0: train CE Loss:1.12; KLD Loss:0; Accuracy:9643/19208=0.502; Average Acc:0.4972; Kappa:0.6452; MSE:1.0857; lr:0.0001
+Epoch 0: train CE Loss:1.103; KLD Loss:0; Accuracy:10586/20808=0.5087; Average Acc:0.5077; Kappa:0.6541; MSE:1.0564; lr:0.0001
+Epoch 0: train CE Loss:1.088; KLD Loss:0; Accuracy:11563/22408=0.516; Average Acc:0.5165; Kappa:0.6636; MSE:1.0283; lr:0.0001
+Epoch 0: train CE Loss:1.074; KLD Loss:0; Accuracy:12527/24008=0.5218; Average Acc:0.5235; Kappa:0.6715; MSE:1.0012; lr:0.0001
+Epoch 0: train CE Loss:1.061; KLD Loss:0; Accuracy:13500/25608=0.5272; Average Acc:0.5303; Kappa:0.6792; MSE:0.9758; lr:0.0001
+Epoch 0: train CE Loss:1.047; KLD Loss:0; Accuracy:14514/27208=0.5334; Average Acc:0.5366; Kappa:0.6866; MSE:0.9495; lr:0.0001
+Epoch 0: train CE Loss:1.035; KLD Loss:0; Accuracy:15541/28808=0.5395; Average Acc:0.5443; Kappa:0.6943; MSE:0.9254; lr:0.0001
+Epoch 0: train CE Loss:1.024; KLD Loss:0; Accuracy:16577/30408=0.5452; Average Acc:0.5506; Kappa:0.7006; MSE:0.9048; lr:0.0001
+Epoch 0: train CE Loss:1.014; KLD Loss:0; Accuracy:17581/32008=0.5493; Average Acc:0.556; Kappa:0.7051; MSE:0.8898; lr:0.0001
+Epoch 0: train CE Loss:1.011; KLD Loss:0; Accuracy:18063/32816=0.5504; Average Acc:0.5575; Kappa:0.7069; MSE:0.8824; lr:0.0001
+********************
+Epoch 0: val CE Loss:0.7881; KLD Loss:0; Accuracy:3011/4676=0.6439; Average Acc:0.6884; Kappa:0.8128; MSE:0.5791
+[[0.29662104 0.04875962 0.04576561 0.00149701 0.        ]
+ [0.07335329 0.0453379  0.070787   0.00641574 0.        ]
+ [0.01539778 0.02053037 0.15804106 0.05645851 0.00171086]
+ [0.         0.00106929 0.0040633  0.10671514 0.00769889]
+ [0.         0.         0.         0.0025663  0.03721129]]
+********************
+Epoch 1: train CE Loss:0.4589; KLD Loss:0; Accuracy:5/8=0.625; Average Acc: 0.6; Kappa:0.8222; MSE:0.75; lr:0.0001
+Epoch 1: train CE Loss:0.7855; KLD Loss:0; Accuracy:1013/1608=0.63; Average Acc:0.6634; Kappa:0.8188; MSE:0.556; lr:0.0001
+Epoch 1: train CE Loss:0.8059; KLD Loss:0; Accuracy:2027/3208=0.6319; Average Acc:0.6545; Kappa:0.8102; MSE:0.562; lr:0.0001
+Epoch 1: train CE Loss:0.8069; KLD Loss:0; Accuracy:3049/4808=0.6342; Average Acc:0.6566; Kappa:0.8115; MSE:0.558; lr:0.0001
+Epoch 1: train CE Loss:0.7927; KLD Loss:0; Accuracy:4078/6408=0.6364; Average Acc:0.6622; Kappa:0.8143; MSE:0.5524; lr:0.0001
+Epoch 1: train CE Loss:0.7865; KLD Loss:0; Accuracy:5085/8008=0.635; Average Acc:0.6645; Kappa:0.8132; MSE:0.5579; lr:0.0001
+Epoch 1: train CE Loss:0.7864; KLD Loss:0; Accuracy:6100/9608=0.6349; Average Acc:0.6668; Kappa:0.8146; MSE:0.5538; lr:0.0001
+Epoch 1: train CE Loss:0.7878; KLD Loss:0; Accuracy:7108/11208=0.6342; Average Acc:0.664; Kappa:0.8165; MSE:0.5483; lr:0.0001
+Epoch 1: train CE Loss:0.7903; KLD Loss:0; Accuracy:8113/12808=0.6334; Average Acc:0.6637; Kappa:0.8178; MSE:0.546; lr:0.0001
+Epoch 1: train CE Loss:0.7876; KLD Loss:0; Accuracy:9151/14408=0.6351; Average Acc:0.6652; Kappa:0.8182; MSE:0.5441; lr:0.0001
+Epoch 1: train CE Loss:0.7846; KLD Loss:0; Accuracy:10200/16008=0.6372; Average Acc:0.6674; Kappa:0.82; MSE:0.5379; lr:0.0001
+Epoch 1: train CE Loss:0.7797; KLD Loss:0; Accuracy:11305/17608=0.642; Average Acc:0.6706; Kappa:0.8223; MSE:0.5315; lr:0.0001
+Epoch 1: train CE Loss:0.7792; KLD Loss:0; Accuracy:12307/19208=0.6407; Average Acc:0.6704; Kappa:0.8222; MSE:0.5307; lr:0.0001
+Epoch 1: train CE Loss:0.7806; KLD Loss:0; Accuracy:13291/20808=0.6387; Average Acc:0.6694; Kappa:0.822; MSE:0.5282; lr:0.0001
+Epoch 1: train CE Loss:0.7802; KLD Loss:0; Accuracy:14307/22408=0.6385; Average Acc:0.6705; Kappa:0.8226; MSE:0.5241; lr:0.0001
+Epoch 1: train CE Loss:0.7765; KLD Loss:0; Accuracy:15400/24008=0.6415; Average Acc:0.6732; Kappa:0.8243; MSE:0.5188; lr:0.0001
+Epoch 1: train CE Loss:0.7769; KLD Loss:0; Accuracy:16440/25608=0.642; Average Acc:0.6726; Kappa:0.8254; MSE:0.515; lr:0.0001
+Epoch 1: train CE Loss:0.7739; KLD Loss:0; Accuracy:17475/27208=0.6423; Average Acc:0.6735; Kappa:0.8262; MSE:0.5129; lr:0.0001
+Epoch 1: train CE Loss:0.7711; KLD Loss:0; Accuracy:18563/28808=0.6444; Average Acc:0.6755; Kappa:0.8275; MSE:0.5093; lr:0.0001
+Epoch 1: train CE Loss:0.769; KLD Loss:0; Accuracy:19640/30408=0.6459; Average Acc:0.6771; Kappa:0.8282; MSE:0.5066; lr:0.0001
+Epoch 1: train CE Loss:0.7686; KLD Loss:0; Accuracy:20724/32008=0.6475; Average Acc:0.6788; Kappa:0.8285; MSE:0.5044; lr:0.0001
+Epoch 1: train CE Loss:0.768; KLD Loss:0; Accuracy:21275/32816=0.6483; Average Acc:0.6796; Kappa:0.8291; MSE:0.5022; lr:0.0001
+********************
+Epoch 1: val CE Loss:0.742; KLD Loss:0; Accuracy:3061/4676=0.6546; Average Acc:0.7079; Kappa:0.8486; MSE:0.453
+[[0.28721129 0.0896065  0.01497006 0.00085543 0.        ]
+ [0.06372968 0.08212147 0.04405475 0.00598802 0.        ]
+ [0.01026518 0.04875962 0.14542344 0.04747648 0.00021386]
+ [0.         0.00192472 0.00491873 0.10158255 0.01112062]
+ [0.         0.         0.00021386 0.00128315 0.03828058]]
+********************
+Epoch 2: train CE Loss:0.4623; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.6333; Kappa:0.9394; MSE:0.25; lr:0.0001
+Epoch 2: train CE Loss:0.7478; KLD Loss:0; Accuracy:1059/1608=0.6586; Average Acc:0.6938; Kappa:0.8468; MSE:0.4621; lr:0.0001
+Epoch 2: train CE Loss:0.7425; KLD Loss:0; Accuracy:2083/3208=0.6493; Average Acc:0.686; Kappa:0.8381; MSE:0.476; lr:0.0001
+Epoch 2: train CE Loss:0.7347; KLD Loss:0; Accuracy:3130/4808=0.651; Average Acc:0.6928; Kappa:0.8398; MSE:0.4686; lr:0.0001
+Epoch 2: train CE Loss:0.7232; KLD Loss:0; Accuracy:4189/6408=0.6537; Average Acc:0.6924; Kappa:0.8427; MSE:0.4655; lr:0.0001
+Epoch 2: train CE Loss:0.7282; KLD Loss:0; Accuracy:5256/8008=0.6563; Average Acc:0.6945; Kappa:0.8421; MSE:0.465; lr:0.0001
+Epoch 2: train CE Loss:0.7321; KLD Loss:0; Accuracy:6277/9608=0.6533; Average Acc:0.6899; Kappa:0.8413; MSE:0.4702; lr:0.0001
+Epoch 2: train CE Loss:0.7268; KLD Loss:0; Accuracy:7395/11208=0.6598; Average Acc:0.6938; Kappa:0.8436; MSE:0.4618; lr:0.0001
+Epoch 2: train CE Loss:0.7296; KLD Loss:0; Accuracy:8479/12808=0.662; Average Acc:0.6942; Kappa:0.8441; MSE:0.4614; lr:0.0001
+Epoch 2: train CE Loss:0.7297; KLD Loss:0; Accuracy:9537/14408=0.6619; Average Acc:0.6954; Kappa:0.8437; MSE:0.4601; lr:0.0001
+Epoch 2: train CE Loss:0.7305; KLD Loss:0; Accuracy:10585/16008=0.6612; Average Acc:0.6948; Kappa:0.8432; MSE:0.4608; lr:0.0001
+Epoch 2: train CE Loss:0.7303; KLD Loss:0; Accuracy:11638/17608=0.6609; Average Acc:0.6947; Kappa:0.8427; MSE:0.4606; lr:0.0001
+Epoch 2: train CE Loss:0.7308; KLD Loss:0; Accuracy:12698/19208=0.6611; Average Acc:0.6955; Kappa:0.843; MSE:0.4596; lr:0.0001
+Epoch 2: train CE Loss:0.7296; KLD Loss:0; Accuracy:13729/20808=0.6598; Average Acc:0.6942; Kappa:0.8428; MSE:0.4619; lr:0.0001
+Epoch 2: train CE Loss:0.728; KLD Loss:0; Accuracy:14793/22408=0.6602; Average Acc:0.6954; Kappa:0.8435; MSE:0.4596; lr:0.0001
+Epoch 2: train CE Loss:0.7265; KLD Loss:0; Accuracy:15891/24008=0.6619; Average Acc:0.6971; Kappa:0.8443; MSE:0.4571; lr:0.0001
+Epoch 2: train CE Loss:0.7272; KLD Loss:0; Accuracy:16951/25608=0.6619; Average Acc:0.6967; Kappa:0.8438; MSE:0.4582; lr:0.0001
+Epoch 2: train CE Loss:0.7267; KLD Loss:0; Accuracy:18036/27208=0.6629; Average Acc:0.6967; Kappa:0.8446; MSE:0.4578; lr:0.0001
+Epoch 2: train CE Loss:0.7254; KLD Loss:0; Accuracy:19137/28808=0.6643; Average Acc:0.6979; Kappa:0.8452; MSE:0.4559; lr:0.0001
+Epoch 2: train CE Loss:0.7255; KLD Loss:0; Accuracy:20212/30408=0.6647; Average Acc:0.6984; Kappa:0.8451; MSE:0.4559; lr:0.0001
+Epoch 2: train CE Loss:0.7268; KLD Loss:0; Accuracy:21288/32008=0.6651; Average Acc:0.6983; Kappa:0.8448; MSE:0.4562; lr:0.0001
+Epoch 2: train CE Loss:0.7259; KLD Loss:0; Accuracy:21837/32816=0.6654; Average Acc:0.6988; Kappa:0.8453; MSE:0.455; lr:0.0001
+********************
+Epoch 2: val CE Loss:0.7006; KLD Loss:0; Accuracy:3237/4676=0.6923; Average Acc:0.7142; Kappa:0.8613; MSE:0.3963
+[[0.31501283 0.06928999 0.00834046 0.         0.        ]
+ [0.07057314 0.09281437 0.03122327 0.00128315 0.        ]
+ [0.01561163 0.06437126 0.15205304 0.02010265 0.        ]
+ [0.         0.00363559 0.01454234 0.09751925 0.00384944]
+ [0.         0.         0.00064157 0.00427716 0.03485885]]
+********************
+Epoch 3: train CE Loss:0.8243; KLD Loss:0; Accuracy:5/8=0.625; Average Acc:0.525; Kappa:0.8723; MSE:0.375; lr:0.0001
+Epoch 3: train CE Loss:0.7173; KLD Loss:0; Accuracy:1094/1608=0.6803; Average Acc:0.7113; Kappa:0.8523; MSE:0.4291; lr:0.0001
+Epoch 3: train CE Loss:0.7098; KLD Loss:0; Accuracy:2172/3208=0.6771; Average Acc:0.7091; Kappa:0.8502; MSE:0.4352; lr:0.0001
+Epoch 3: train CE Loss:0.7059; KLD Loss:0; Accuracy:3270/4808=0.6801; Average Acc:0.7114; Kappa:0.8505; MSE:0.4424; lr:0.0001
+Epoch 3: train CE Loss:0.7062; KLD Loss:0; Accuracy:4356/6408=0.6798; Average Acc:0.7081; Kappa:0.8526; MSE:0.4368; lr:0.0001
+Epoch 3: train CE Loss:0.7019; KLD Loss:0; Accuracy:5436/8008=0.6788; Average Acc:0.7077; Kappa:0.8526; MSE:0.4344; lr:0.0001
+Epoch 3: train CE Loss:0.6974; KLD Loss:0; Accuracy:6524/9608=0.679; Average Acc:0.7112; Kappa:0.8547; MSE:0.43; lr:0.0001
+Epoch 3: train CE Loss:0.697; KLD Loss:0; Accuracy:7617/11208=0.6796; Average Acc:0.7128; Kappa:0.8546; MSE:0.4296; lr:0.0001
+Epoch 3: train CE Loss:0.6958; KLD Loss:0; Accuracy:8716/12808=0.6805; Average Acc:0.7132; Kappa:0.8541; MSE:0.4309; lr:0.0001
+Epoch 3: train CE Loss:0.6969; KLD Loss:0; Accuracy:9806/14408=0.6806; Average Acc:0.7131; Kappa:0.8548; MSE:0.428; lr:0.0001
+Epoch 3: train CE Loss:0.6974; KLD Loss:0; Accuracy:10878/16008=0.6795; Average Acc:0.713; Kappa:0.8535; MSE:0.4307; lr:0.0001
+Epoch 3: train CE Loss:0.6991; KLD Loss:0; Accuracy:11958/17608=0.6791; Average Acc:0.712; Kappa:0.8536; MSE:0.4311; lr:0.0001
+Epoch 3: train CE Loss:0.6991; KLD Loss:0; Accuracy:13058/19208=0.6798; Average Acc:0.7119; Kappa:0.8535; MSE:0.4314; lr:0.0001
+Epoch 3: train CE Loss:0.6962; KLD Loss:0; Accuracy:14171/20808=0.681; Average Acc:0.7133; Kappa:0.8547; MSE:0.4282; lr:0.0001
+Epoch 3: train CE Loss:0.6941; KLD Loss:0; Accuracy:15264/22408=0.6812; Average Acc:0.7142; Kappa:0.8551; MSE:0.426; lr:0.0001
+Epoch 3: train CE Loss:0.6941; KLD Loss:0; Accuracy:16362/24008=0.6815; Average Acc:0.7136; Kappa:0.8548; MSE:0.4267; lr:0.0001
+Epoch 3: train CE Loss:0.6938; KLD Loss:0; Accuracy:17452/25608=0.6815; Average Acc:0.7135; Kappa:0.8552; MSE:0.4258; lr:0.0001
+Epoch 3: train CE Loss:0.6943; KLD Loss:0; Accuracy:18568/27208=0.6824; Average Acc:0.7138; Kappa:0.8554; MSE:0.4255; lr:0.0001
+Epoch 3: train CE Loss:0.6963; KLD Loss:0; Accuracy:19637/28808=0.6817; Average Acc:0.7129; Kappa:0.8548; MSE:0.4268; lr:0.0001
+Epoch 3: train CE Loss:0.6944; KLD Loss:0; Accuracy:20728/30408=0.6817; Average Acc:0.7138; Kappa:0.8552; MSE:0.4253; lr:0.0001
+Epoch 3: train CE Loss:0.6944; KLD Loss:0; Accuracy:21840/32008=0.6823; Average Acc:0.7138; Kappa:0.8556; MSE:0.4242; lr:0.0001
+Epoch 3: train CE Loss:0.6943; KLD Loss:0; Accuracy:22395/32816=0.6824; Average Acc:0.714; Kappa:0.8555; MSE:0.4244; lr:0.0001
+********************
+Epoch 3: val CE Loss:0.6847; KLD Loss:0; Accuracy:3178/4676=0.6796; Average Acc:0.7235; Kappa:0.8545; MSE:0.4224
+[[0.30731394 0.0814799  0.00384944 0.         0.        ]
+ [0.06479897 0.11184773 0.01710864 0.00213858 0.        ]
+ [0.01924722 0.07955518 0.12254063 0.02566296 0.00513259]
+ [0.         0.00342173 0.01047904 0.10072712 0.00491873]
+ [0.         0.         0.00021386 0.00235244 0.03721129]]
+********************
+Epoch 4: train CE Loss:0.559; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.575; Kappa:0.8987; MSE:0.25; lr:0.0001
+Epoch 4: train CE Loss:0.6481; KLD Loss:0; Accuracy:1124/1608=0.699; Average Acc:0.7402; Kappa:0.8725; MSE:0.3775; lr:0.0001
+Epoch 4: train CE Loss:0.648; KLD Loss:0; Accuracy:2225/3208=0.6936; Average Acc:0.738; Kappa:0.8638; MSE:0.4052; lr:0.0001
+Epoch 4: train CE Loss:0.6635; KLD Loss:0; Accuracy:3291/4808=0.6845; Average Acc:0.7268; Kappa:0.8589; MSE:0.417; lr:0.0001
+Epoch 4: train CE Loss:0.6721; KLD Loss:0; Accuracy:4402/6408=0.687; Average Acc:0.7233; Kappa:0.8584; MSE:0.4182; lr:0.0001
+Epoch 4: train CE Loss:0.6695; KLD Loss:0; Accuracy:5528/8008=0.6903; Average Acc:0.7266; Kappa:0.8603; MSE:0.411; lr:0.0001
+Epoch 4: train CE Loss:0.672; KLD Loss:0; Accuracy:6643/9608=0.6914; Average Acc:0.7269; Kappa:0.8604; MSE:0.4102; lr:0.0001
+Epoch 4: train CE Loss:0.6707; KLD Loss:0; Accuracy:7782/11208=0.6943; Average Acc:0.7296; Kappa:0.8606; MSE:0.4098; lr:0.0001
+Epoch 4: train CE Loss:0.6768; KLD Loss:0; Accuracy:8863/12808=0.692; Average Acc:0.7266; Kappa:0.8601; MSE:0.4119; lr:0.0001
+Epoch 4: train CE Loss:0.6768; KLD Loss:0; Accuracy:9983/14408=0.6929; Average Acc:0.7278; Kappa:0.8596; MSE:0.4129; lr:0.0001
+Epoch 4: train CE Loss:0.6726; KLD Loss:0; Accuracy:11095/16008=0.6931; Average Acc:0.7283; Kappa:0.8599; MSE:0.4125; lr:0.0001
+Epoch 4: train CE Loss:0.6743; KLD Loss:0; Accuracy:12183/17608=0.6919; Average Acc:0.7283; Kappa:0.8598; MSE:0.4117; lr:0.0001
+Epoch 4: train CE Loss:0.6754; KLD Loss:0; Accuracy:13302/19208=0.6925; Average Acc:0.7283; Kappa:0.8596; MSE:0.4127; lr:0.0001
+Epoch 4: train CE Loss:0.6758; KLD Loss:0; Accuracy:14441/20808=0.694; Average Acc:0.7292; Kappa:0.86; MSE:0.4113; lr:0.0001
+Epoch 4: train CE Loss:0.6742; KLD Loss:0; Accuracy:15553/22408=0.6941; Average Acc:0.7298; Kappa:0.861; MSE:0.4086; lr:0.0001
+Epoch 4: train CE Loss:0.6726; KLD Loss:0; Accuracy:16687/24008=0.6951; Average Acc:0.7305; Kappa:0.8611; MSE:0.4082; lr:0.0001
+Epoch 4: train CE Loss:0.6701; KLD Loss:0; Accuracy:17818/25608=0.6958; Average Acc:0.731; Kappa:0.8616; MSE:0.4064; lr:0.0001
+Epoch 4: train CE Loss:0.6702; KLD Loss:0; Accuracy:18961/27208=0.6969; Average Acc:0.7315; Kappa:0.8621; MSE:0.4051; lr:0.0001
+Epoch 4: train CE Loss:0.6694; KLD Loss:0; Accuracy:20084/28808=0.6972; Average Acc:0.7311; Kappa:0.8628; MSE:0.4034; lr:0.0001
+Epoch 4: train CE Loss:0.6702; KLD Loss:0; Accuracy:21196/30408=0.6971; Average Acc:0.7311; Kappa:0.8624; MSE:0.4051; lr:0.0001
+Epoch 4: train CE Loss:0.6686; KLD Loss:0; Accuracy:22344/32008=0.6981; Average Acc:0.7324; Kappa:0.8625; MSE:0.4046; lr:0.0001
+Epoch 4: train CE Loss:0.6671; KLD Loss:0; Accuracy:22927/32816=0.6987; Average Acc:0.7331; Kappa:0.8626; MSE:0.4038; lr:0.0001
+********************
+Epoch 4: val CE Loss:0.7521; KLD Loss:0; Accuracy:3148/4676=0.6732; Average Acc:0.6989; Kappa:0.8428; MSE:0.4647
+[[0.34024808 0.04811805 0.00427716 0.         0.        ]
+ [0.09260051 0.08575706 0.01668092 0.00085543 0.        ]
+ [0.03079555 0.08340462 0.11334474 0.02459367 0.        ]
+ [0.00064157 0.00791275 0.00705731 0.09687767 0.00705731]
+ [0.         0.         0.00042772 0.00235244 0.03699743]]
+********************
+Epoch 5: train CE Loss:1.084; KLD Loss:0; Accuracy:5/8=0.625; Average Acc: 0.5; Kappa:0.5932; MSE:0.75; lr:0.0001
+Epoch 5: train CE Loss:0.6406; KLD Loss:0; Accuracy:1129/1608=0.7021; Average Acc:0.7331; Kappa:0.862; MSE:0.4073; lr:0.0001
+Epoch 5: train CE Loss:0.6318; KLD Loss:0; Accuracy:2285/3208=0.7123; Average Acc:0.7452; Kappa:0.8698; MSE:0.3787; lr:0.0001
+Epoch 5: train CE Loss:0.6419; KLD Loss:0; Accuracy:3410/4808=0.7092; Average Acc:0.739; Kappa:0.8663; MSE:0.3906; lr:0.0001
+Epoch 5: train CE Loss:0.6417; KLD Loss:0; Accuracy:4542/6408=0.7088; Average Acc:0.7393; Kappa:0.8663; MSE:0.3908; lr:0.0001
+Epoch 5: train CE Loss:0.6462; KLD Loss:0; Accuracy:5659/8008=0.7067; Average Acc:0.7403; Kappa:0.8657; MSE:0.3907; lr:0.0001
+Epoch 5: train CE Loss:0.6485; KLD Loss:0; Accuracy:6782/9608=0.7059; Average Acc:0.7404; Kappa:0.8652; MSE:0.3935; lr:0.0001
+Epoch 5: train CE Loss:0.6508; KLD Loss:0; Accuracy:7907/11208=0.7055; Average Acc:0.7404; Kappa:0.8663; MSE:0.3912; lr:0.0001
+Epoch 5: train CE Loss:0.653; KLD Loss:0; Accuracy:9020/12808=0.7042; Average Acc:0.7398; Kappa:0.8658; MSE:0.3938; lr:0.0001
+Epoch 5: train CE Loss:0.6546; KLD Loss:0; Accuracy:10142/14408=0.7039; Average Acc:0.7398; Kappa:0.866; MSE:0.3936; lr:0.0001
+Epoch 5: train CE Loss:0.6569; KLD Loss:0; Accuracy:11243/16008=0.7023; Average Acc:0.7382; Kappa:0.8653; MSE:0.3946; lr:0.0001
+Epoch 5: train CE Loss:0.6554; KLD Loss:0; Accuracy:12367/17608=0.7024; Average Acc:0.7383; Kappa:0.8652; MSE:0.395; lr:0.0001
+Epoch 5: train CE Loss:0.6544; KLD Loss:0; Accuracy:13517/19208=0.7037; Average Acc:0.7401; Kappa:0.8653; MSE:0.3949; lr:0.0001
+Epoch 5: train CE Loss:0.6521; KLD Loss:0; Accuracy:14684/20808=0.7057; Average Acc:0.7416; Kappa:0.8658; MSE:0.3932; lr:0.0001
+Epoch 5: train CE Loss:0.6512; KLD Loss:0; Accuracy:15816/22408=0.7058; Average Acc:0.7416; Kappa:0.8664; MSE:0.391; lr:0.0001
+Epoch 5: train CE Loss:0.648; KLD Loss:0; Accuracy:16977/24008=0.7071; Average Acc:0.7421; Kappa:0.8675; MSE:0.3887; lr:0.0001
+Epoch 5: train CE Loss:0.6477; KLD Loss:0; Accuracy:18120/25608=0.7076; Average Acc:0.7427; Kappa:0.8675; MSE:0.388; lr:0.0001
+Epoch 5: train CE Loss:0.65; KLD Loss:0; Accuracy:19225/27208=0.7066; Average Acc:0.741; Kappa:0.8672; MSE:0.3896; lr:0.0001
+Epoch 5: train CE Loss:0.6512; KLD Loss:0; Accuracy:20313/28808=0.7051; Average Acc:0.7402; Kappa:0.866; MSE:0.3927; lr:0.0001
+Epoch 5: train CE Loss:0.651; KLD Loss:0; Accuracy:21440/30408=0.7051; Average Acc:0.74; Kappa:0.8664; MSE:0.3918; lr:0.0001
+Epoch 5: train CE Loss:0.6506; KLD Loss:0; Accuracy:22551/32008=0.7045; Average Acc:0.7395; Kappa:0.8664; MSE:0.3921; lr:0.0001
+Epoch 5: train CE Loss:0.6503; KLD Loss:0; Accuracy:23129/32816=0.7048; Average Acc:0.7397; Kappa:0.8664; MSE:0.3918; lr:0.0001
+********************
+Epoch 5: val CE Loss:0.7076; KLD Loss:0; Accuracy:3310/4676=0.7079; Average Acc:0.7236; Kappa:0.8608; MSE:0.4279
+[[0.35179641 0.03100941 0.00983747 0.         0.        ]
+ [0.09730539 0.06586826 0.03100941 0.00171086 0.        ]
+ [0.0295124  0.03656972 0.15868263 0.02737382 0.        ]
+ [0.00021386 0.00363559 0.00983747 0.09238666 0.01347305]
+ [0.         0.         0.         0.00064157 0.03913601]]
+********************
+Epoch 6: train CE Loss:0.6073; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.6875; Kappa: 0.9; MSE:0.25; lr:0.0001
+Epoch 6: train CE Loss:0.6223; KLD Loss:0; Accuracy:1147/1608=0.7133; Average Acc:0.7458; Kappa:0.8667; MSE:0.3893; lr:0.0001
+Epoch 6: train CE Loss:0.6264; KLD Loss:0; Accuracy:2285/3208=0.7123; Average Acc:0.7419; Kappa:0.873; MSE:0.3756; lr:0.0001
+Epoch 6: train CE Loss:0.6347; KLD Loss:0; Accuracy:3410/4808=0.7092; Average Acc:0.7385; Kappa:0.868; MSE:0.386; lr:0.0001
+Epoch 6: train CE Loss:0.6341; KLD Loss:0; Accuracy:4555/6408=0.7108; Average Acc:0.7415; Kappa:0.869; MSE:0.3848; lr:0.0001
+Epoch 6: train CE Loss:0.63; KLD Loss:0; Accuracy:5691/8008=0.7107; Average Acc:0.7405; Kappa:0.8707; MSE:0.3807; lr:0.0001
+Epoch 6: train CE Loss:0.6352; KLD Loss:0; Accuracy:6807/9608=0.7085; Average Acc:0.7399; Kappa:0.8697; MSE:0.3805; lr:0.0001
+Epoch 6: train CE Loss:0.6371; KLD Loss:0; Accuracy:7933/11208=0.7078; Average Acc:0.7383; Kappa:0.8703; MSE:0.3806; lr:0.0001
+Epoch 6: train CE Loss:0.6367; KLD Loss:0; Accuracy:9098/12808=0.7103; Average Acc:0.739; Kappa:0.8711; MSE:0.3798; lr:0.0001
+Epoch 6: train CE Loss:0.6381; KLD Loss:0; Accuracy:10225/14408=0.7097; Average Acc:0.7393; Kappa:0.8707; MSE:0.3803; lr:0.0001
+Epoch 6: train CE Loss:0.6393; KLD Loss:0; Accuracy:11361/16008=0.7097; Average Acc:0.7403; Kappa:0.8707; MSE:0.3791; lr:0.0001
+Epoch 6: train CE Loss:0.6365; KLD Loss:0; Accuracy:12520/17608=0.711; Average Acc:0.7422; Kappa:0.8716; MSE:0.3762; lr:0.0001
+Epoch 6: train CE Loss:0.6353; KLD Loss:0; Accuracy:13616/19208=0.7089; Average Acc:0.7411; Kappa:0.8714; MSE:0.3768; lr:0.0001
+Epoch 6: train CE Loss:0.6341; KLD Loss:0; Accuracy:14760/20808=0.7093; Average Acc:0.7422; Kappa:0.8715; MSE:0.3768; lr:0.0001
+Epoch 6: train CE Loss:0.6354; KLD Loss:0; Accuracy:15899/22408=0.7095; Average Acc:0.7421; Kappa:0.8709; MSE:0.3781; lr:0.0001
+Epoch 6: train CE Loss:0.6342; KLD Loss:0; Accuracy:17059/24008=0.7106; Average Acc:0.7439; Kappa:0.8707; MSE:0.3775; lr:0.0001
+Epoch 6: train CE Loss:0.6349; KLD Loss:0; Accuracy:18162/25608=0.7092; Average Acc:0.7435; Kappa:0.8704; MSE:0.3783; lr:0.0001
+Epoch 6: train CE Loss:0.6342; KLD Loss:0; Accuracy:19312/27208=0.7098; Average Acc:0.744; Kappa:0.8705; MSE:0.3774; lr:0.0001
+Epoch 6: train CE Loss:0.6332; KLD Loss:0; Accuracy:20446/28808=0.7097; Average Acc:0.7439; Kappa:0.8702; MSE:0.3787; lr:0.0001
+Epoch 6: train CE Loss:0.6326; KLD Loss:0; Accuracy:21579/30408=0.7096; Average Acc:0.7437; Kappa:0.8705; MSE:0.3783; lr:0.0001
+Epoch 6: train CE Loss:0.6332; KLD Loss:0; Accuracy:22709/32008=0.7095; Average Acc:0.7433; Kappa:0.8703; MSE:0.3794; lr:0.0001
+Epoch 6: train CE Loss:0.6334; KLD Loss:0; Accuracy:23298/32816=0.71; Average Acc:0.7439; Kappa:0.8703; MSE:0.3791; lr:0.0001
+********************
+Epoch 6: val CE Loss:0.7269; KLD Loss:0; Accuracy:3282/4676=0.7019; Average Acc:0.6829; Kappa:0.851; MSE:0.4277
+[[0.33041061 0.05410607 0.0081266  0.         0.        ]
+ [0.07912746 0.07934132 0.03571429 0.00171086 0.        ]
+ [0.02865697 0.04106074 0.16295979 0.01946108 0.        ]
+ [0.00064157 0.00278015 0.01283148 0.1028657  0.00042772]
+ [0.         0.         0.00021386 0.0132592  0.02630453]]
+********************
+Epoch 7: train CE Loss:0.1789; KLD Loss:0; Accuracy:8/8=1; Average Acc:   1; Kappa:   1; MSE:   0; lr:0.0001
+Epoch 7: train CE Loss:0.615; KLD Loss:0; Accuracy:1169/1608=0.727; Average Acc:0.7674; Kappa:0.8697; MSE:0.3756; lr:0.0001
+Epoch 7: train CE Loss:0.6262; KLD Loss:0; Accuracy:2303/3208=0.7179; Average Acc:0.7582; Kappa:0.8669; MSE:0.3794; lr:0.0001
+Epoch 7: train CE Loss:0.6252; KLD Loss:0; Accuracy:3449/4808=0.7173; Average Acc:0.7561; Kappa:0.8692; MSE:0.3756; lr:0.0001
+Epoch 7: train CE Loss:0.6291; KLD Loss:0; Accuracy:4576/6408=0.7141; Average Acc:0.7481; Kappa:0.8716; MSE:0.3766; lr:0.0001
+Epoch 7: train CE Loss:0.637; KLD Loss:0; Accuracy:5705/8008=0.7124; Average Acc:0.7421; Kappa:0.8725; MSE:0.3787; lr:0.0001
+Epoch 7: train CE Loss:0.6359; KLD Loss:0; Accuracy:6863/9608=0.7143; Average Acc:0.7453; Kappa:0.8725; MSE:0.3762; lr:0.0001
+Epoch 7: train CE Loss:0.6347; KLD Loss:0; Accuracy:8001/11208=0.7139; Average Acc:0.7447; Kappa:0.8721; MSE:0.375; lr:0.0001
+Epoch 7: train CE Loss:0.6329; KLD Loss:0; Accuracy:9132/12808=0.713; Average Acc:0.7444; Kappa:0.872; MSE:0.3745; lr:0.0001
+Epoch 7: train CE Loss:0.6317; KLD Loss:0; Accuracy:10259/14408=0.712; Average Acc:0.7448; Kappa:0.8713; MSE:0.3761; lr:0.0001
+Epoch 7: train CE Loss:0.6253; KLD Loss:0; Accuracy:11428/16008=0.7139; Average Acc:0.7459; Kappa:0.8734; MSE:0.3714; lr:0.0001
+Epoch 7: train CE Loss:0.6238; KLD Loss:0; Accuracy:12585/17608=0.7147; Average Acc:0.7465; Kappa:0.874; MSE:0.3696; lr:0.0001
+Epoch 7: train CE Loss:0.6216; KLD Loss:0; Accuracy:13746/19208=0.7156; Average Acc:0.7484; Kappa:0.8742; MSE:0.3691; lr:0.0001
+Epoch 7: train CE Loss:0.6217; KLD Loss:0; Accuracy:14886/20808=0.7154; Average Acc:0.7491; Kappa:0.874; MSE:0.3693; lr:0.0001
+Epoch 7: train CE Loss:0.6225; KLD Loss:0; Accuracy:16024/22408=0.7151; Average Acc:0.7495; Kappa:0.8736; MSE:0.3699; lr:0.0001
+Epoch 7: train CE Loss:0.6214; KLD Loss:0; Accuracy:17184/24008=0.7158; Average Acc:0.7499; Kappa:0.8738; MSE:0.3679; lr:0.0001
+Epoch 7: train CE Loss:0.6185; KLD Loss:0; Accuracy:18355/25608=0.7168; Average Acc:0.7512; Kappa:0.8743; MSE:0.3667; lr:0.0001
+Epoch 7: train CE Loss:0.6201; KLD Loss:0; Accuracy:19497/27208=0.7166; Average Acc:0.75; Kappa:0.8744; MSE:0.3674; lr:0.0001
+Epoch 7: train CE Loss:0.6204; KLD Loss:0; Accuracy:20649/28808=0.7168; Average Acc:0.7504; Kappa:0.8744; MSE:0.3668; lr:0.0001
+Epoch 7: train CE Loss:0.6179; KLD Loss:0; Accuracy:21815/30408=0.7174; Average Acc:0.7507; Kappa:0.8747; MSE:0.3668; lr:0.0001
+Epoch 7: train CE Loss:0.6187; KLD Loss:0; Accuracy:22934/32008=0.7165; Average Acc:0.7496; Kappa:0.8735; MSE:0.3706; lr:0.0001
+Epoch 7: train CE Loss:0.618; KLD Loss:0; Accuracy:23530/32816=0.717; Average Acc:0.7503; Kappa:0.8737; MSE:0.3695; lr:0.0001
+********************
+Epoch 7: val CE Loss:0.7328; KLD Loss:0; Accuracy:3018/4676=0.6454; Average Acc:0.7257; Kappa:0.8312; MSE:0.4775
+[[0.22155689 0.14136014 0.0295124  0.00021386 0.        ]
+ [0.02331052 0.10307956 0.06586826 0.00363559 0.        ]
+ [0.00598802 0.02480753 0.17985458 0.04063302 0.00085543]
+ [0.         0.00042772 0.00876818 0.10243798 0.00791275]
+ [0.         0.         0.         0.00128315 0.03849444]]
+********************
+Epoch 8: train CE Loss:0.5146; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.9167; Kappa:0.9355; MSE:0.125; lr:0.0001
+Epoch 8: train CE Loss:0.5917; KLD Loss:0; Accuracy:1180/1608=0.7338; Average Acc:0.7696; Kappa:0.8851; MSE:0.3165; lr:0.0001
+Epoch 8: train CE Loss:0.5939; KLD Loss:0; Accuracy:2365/3208=0.7372; Average Acc:0.7678; Kappa:0.889; MSE:0.3264; lr:0.0001
+Epoch 8: train CE Loss:0.6049; KLD Loss:0; Accuracy:3511/4808=0.7302; Average Acc:0.764; Kappa:0.8845; MSE:0.3403; lr:0.0001
+Epoch 8: train CE Loss:0.595; KLD Loss:0; Accuracy:4684/6408=0.731; Average Acc:0.7647; Kappa:0.8859; MSE:0.3402; lr:0.0001
+Epoch 8: train CE Loss:0.5959; KLD Loss:0; Accuracy:5844/8008=0.7298; Average Acc:0.7663; Kappa:0.8829; MSE:0.3473; lr:0.0001
+Epoch 8: train CE Loss:0.5993; KLD Loss:0; Accuracy:7002/9608=0.7288; Average Acc:0.7647; Kappa:0.8815; MSE:0.3515; lr:0.0001
+Epoch 8: train CE Loss:0.6018; KLD Loss:0; Accuracy:8135/11208=0.7258; Average Acc:0.763; Kappa:0.88; MSE:0.355; lr:0.0001
+Epoch 8: train CE Loss:0.6036; KLD Loss:0; Accuracy:9271/12808=0.7238; Average Acc:0.7613; Kappa:0.8787; MSE:0.3576; lr:0.0001
+Epoch 8: train CE Loss:0.6059; KLD Loss:0; Accuracy:10419/14408=0.7231; Average Acc:0.7602; Kappa:0.8787; MSE:0.3572; lr:0.0001
+Epoch 8: train CE Loss:0.6044; KLD Loss:0; Accuracy:11604/16008=0.7249; Average Acc:0.7611; Kappa:0.8792; MSE:0.3554; lr:0.0001
+Epoch 8: train CE Loss:0.6015; KLD Loss:0; Accuracy:12785/17608=0.7261; Average Acc:0.7619; Kappa:0.8794; MSE:0.355; lr:0.0001
+Epoch 8: train CE Loss:0.6022; KLD Loss:0; Accuracy:13927/19208=0.7251; Average Acc:0.7606; Kappa:0.8784; MSE:0.3558; lr:0.0001
+Epoch 8: train CE Loss:0.6014; KLD Loss:0; Accuracy:15106/20808=0.726; Average Acc:0.7609; Kappa:0.8784; MSE:0.3557; lr:0.0001
+Epoch 8: train CE Loss:0.6033; KLD Loss:0; Accuracy:16235/22408=0.7245; Average Acc:0.7595; Kappa:0.8781; MSE:0.3558; lr:0.0001
+Epoch 8: train CE Loss:0.5994; KLD Loss:0; Accuracy:17416/24008=0.7254; Average Acc:0.7603; Kappa:0.8782; MSE:0.3558; lr:0.0001
+Epoch 8: train CE Loss:0.5999; KLD Loss:0; Accuracy:18572/25608=0.7252; Average Acc:0.7601; Kappa:0.878; MSE:0.3568; lr:0.0001
+Epoch 8: train CE Loss:0.6016; KLD Loss:0; Accuracy:19718/27208=0.7247; Average Acc:0.76; Kappa:0.8777; MSE:0.3568; lr:0.0001
+Epoch 8: train CE Loss:0.5999; KLD Loss:0; Accuracy:20879/28808=0.7248; Average Acc:0.7601; Kappa:0.8775; MSE:0.3577; lr:0.0001
+Epoch 8: train CE Loss:0.6007; KLD Loss:0; Accuracy:22024/30408=0.7243; Average Acc:0.7594; Kappa:0.8772; MSE:0.3594; lr:0.0001
+Epoch 8: train CE Loss:0.6005; KLD Loss:0; Accuracy:23188/32008=0.7244; Average Acc:0.7599; Kappa:0.877; MSE:0.3591; lr:0.0001
+Epoch 8: train CE Loss:0.6021; KLD Loss:0; Accuracy:23743/32816=0.7235; Average Acc:0.7591; Kappa:0.8766; MSE:0.3599; lr:0.0001
+********************
+Epoch 8: val CE Loss:0.6452; KLD Loss:0; Accuracy:3300/4676=0.7057; Average Acc:0.748; Kappa:0.8655; MSE:0.386
+[[0.2902053  0.08853721 0.01390077 0.         0.        ]
+ [0.04191617 0.10714286 0.04426861 0.0025663  0.        ]
+ [0.01197605 0.03977759 0.16723695 0.03314799 0.        ]
+ [0.         0.00192472 0.00855432 0.10479042 0.00427716]
+ [0.         0.         0.00021386 0.00320787 0.03635586]]
+********************
+Epoch 9: train CE Loss:0.507; KLD Loss:0; Accuracy:5/8=0.625; Average Acc:0.35; Kappa:0.85; MSE:0.75; lr:0.0001
+Epoch 9: train CE Loss:0.5942; KLD Loss:0; Accuracy:1179/1608=0.7332; Average Acc:0.7595; Kappa:0.8708; MSE:0.3694; lr:0.0001
+Epoch 9: train CE Loss:0.5775; KLD Loss:0; Accuracy:2392/3208=0.7456; Average Acc:0.7677; Kappa:0.8805; MSE:0.3429; lr:0.0001
+Epoch 9: train CE Loss:0.5738; KLD Loss:0; Accuracy:3546/4808=0.7375; Average Acc:0.7693; Kappa:0.88; MSE:0.3403; lr:0.0001
+Epoch 9: train CE Loss:0.5778; KLD Loss:0; Accuracy:4712/6408=0.7353; Average Acc:0.7669; Kappa:0.8802; MSE:0.3436; lr:0.0001
+Epoch 9: train CE Loss:0.5703; KLD Loss:0; Accuracy:5911/8008=0.7381; Average Acc:0.7701; Kappa:0.8808; MSE:0.3437; lr:0.0001
+Epoch 9: train CE Loss:0.579; KLD Loss:0; Accuracy:7062/9608=0.735; Average Acc:0.766; Kappa:0.8787; MSE:0.3505; lr:0.0001
+Epoch 9: train CE Loss:0.5814; KLD Loss:0; Accuracy:8241/11208=0.7353; Average Acc:0.7659; Kappa:0.8793; MSE:0.3498; lr:0.0001
+Epoch 9: train CE Loss:0.5895; KLD Loss:0; Accuracy:9376/12808=0.732; Average Acc:0.764; Kappa:0.8768; MSE:0.357; lr:0.0001
+Epoch 9: train CE Loss:0.5929; KLD Loss:0; Accuracy:10551/14408=0.7323; Average Acc:0.7635; Kappa:0.8771; MSE:0.356; lr:0.0001
+Epoch 9: train CE Loss:0.5926; KLD Loss:0; Accuracy:11707/16008=0.7313; Average Acc:0.7629; Kappa:0.8779; MSE:0.3547; lr:0.0001
+Epoch 9: train CE Loss:0.5929; KLD Loss:0; Accuracy:12877/17608=0.7313; Average Acc:0.7633; Kappa:0.8779; MSE:0.3539; lr:0.0001
+Epoch 9: train CE Loss:0.5892; KLD Loss:0; Accuracy:14078/19208=0.7329; Average Acc:0.7649; Kappa:0.879; MSE:0.3511; lr:0.0001
+Epoch 9: train CE Loss:0.5891; KLD Loss:0; Accuracy:15238/20808=0.7323; Average Acc:0.7654; Kappa:0.8796; MSE:0.3505; lr:0.0001
+Epoch 9: train CE Loss:0.5902; KLD Loss:0; Accuracy:16409/22408=0.7323; Average Acc:0.7647; Kappa:0.8799; MSE:0.3498; lr:0.0001
+Epoch 9: train CE Loss:0.5907; KLD Loss:0; Accuracy:17571/24008=0.7319; Average Acc:0.7645; Kappa:0.8798; MSE:0.3502; lr:0.0001
+Epoch 9: train CE Loss:0.5907; KLD Loss:0; Accuracy:18739/25608=0.7318; Average Acc:0.7642; Kappa:0.8801; MSE:0.35; lr:0.0001
+Epoch 9: train CE Loss:0.5921; KLD Loss:0; Accuracy:19866/27208=0.7302; Average Acc:0.7632; Kappa:0.8791; MSE:0.352; lr:0.0001
+Epoch 9: train CE Loss:0.5918; KLD Loss:0; Accuracy:21018/28808=0.7296; Average Acc:0.763; Kappa:0.8786; MSE:0.353; lr:0.0001
+Epoch 9: train CE Loss:0.5904; KLD Loss:0; Accuracy:22211/30408=0.7304; Average Acc:0.7635; Kappa:0.8792; MSE:0.3521; lr:0.0001
+Epoch 9: train CE Loss:0.5916; KLD Loss:0; Accuracy:23367/32008=0.73; Average Acc:0.7634; Kappa:0.8792; MSE:0.3521; lr:0.0001
+Epoch 9: train CE Loss:0.5916; KLD Loss:0; Accuracy:23941/32816=0.7296; Average Acc:0.763; Kappa:0.8792; MSE:0.352; lr:0.0001
+********************
+Epoch 9: val CE Loss:0.6248; KLD Loss:0; Accuracy:3366/4676=0.7198; Average Acc:0.7445; Kappa:0.8673; MSE:0.3918
+[[0.32698888 0.05282293 0.01283148 0.         0.        ]
+ [0.07100086 0.08789564 0.03528657 0.00171086 0.        ]
+ [0.01903336 0.03913601 0.17343884 0.02031651 0.00021386]
+ [0.         0.00320787 0.01368691 0.09260051 0.01005133]
+ [0.         0.         0.00021386 0.00064157 0.03892216]]
+********************
+Epoch 10: train CE Loss:0.4653; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.8333; Kappa:0.92; MSE:0.125; lr:0.0001
+Epoch 10: train CE Loss:0.5884; KLD Loss:0; Accuracy:1172/1608=0.7289; Average Acc:0.7592; Kappa:0.8792; MSE:0.3551; lr:0.0001
+Epoch 10: train CE Loss:0.5795; KLD Loss:0; Accuracy:2362/3208=0.7363; Average Acc:0.767; Kappa:0.8826; MSE:0.3404; lr:0.0001
+Epoch 10: train CE Loss:0.5738; KLD Loss:0; Accuracy:3531/4808=0.7344; Average Acc:0.7622; Kappa:0.8844; MSE:0.3382; lr:0.0001
+Epoch 10: train CE Loss:0.5742; KLD Loss:0; Accuracy:4701/6408=0.7336; Average Acc:0.7592; Kappa:0.8851; MSE:0.3363; lr:0.0001
+Epoch 10: train CE Loss:0.58; KLD Loss:0; Accuracy:5857/8008=0.7314; Average Acc:0.7589; Kappa:0.8828; MSE:0.3437; lr:0.0001
+Epoch 10: train CE Loss:0.5801; KLD Loss:0; Accuracy:7040/9608=0.7327; Average Acc:0.7615; Kappa:0.8824; MSE:0.3442; lr:0.0001
+Epoch 10: train CE Loss:0.5722; KLD Loss:0; Accuracy:8241/11208=0.7353; Average Acc:0.765; Kappa:0.8841; MSE:0.3404; lr:0.0001
+Epoch 10: train CE Loss:0.5716; KLD Loss:0; Accuracy:9428/12808=0.7361; Average Acc:0.768; Kappa:0.8846; MSE:0.3378; lr:0.0001
+Epoch 10: train CE Loss:0.5791; KLD Loss:0; Accuracy:10560/14408=0.7329; Average Acc:0.7651; Kappa:0.8827; MSE:0.3425; lr:0.0001
+Epoch 10: train CE Loss:0.5822; KLD Loss:0; Accuracy:11708/16008=0.7314; Average Acc:0.764; Kappa:0.8822; MSE:0.3427; lr:0.0001
+Epoch 10: train CE Loss:0.5811; KLD Loss:0; Accuracy:12884/17608=0.7317; Average Acc:0.7648; Kappa:0.8819; MSE:0.3443; lr:0.0001
+Epoch 10: train CE Loss:0.5828; KLD Loss:0; Accuracy:14045/19208=0.7312; Average Acc:0.7645; Kappa:0.8815; MSE:0.345; lr:0.0001
+Epoch 10: train CE Loss:0.5807; KLD Loss:0; Accuracy:15251/20808=0.7329; Average Acc:0.7658; Kappa:0.8823; MSE:0.3433; lr:0.0001
+Epoch 10: train CE Loss:0.5809; KLD Loss:0; Accuracy:16406/22408=0.7321; Average Acc:0.7659; Kappa:0.8816; MSE:0.3453; lr:0.0001
+Epoch 10: train CE Loss:0.5805; KLD Loss:0; Accuracy:17586/24008=0.7325; Average Acc:0.7658; Kappa:0.8815; MSE:0.3456; lr:0.0001
+Epoch 10: train CE Loss:0.5806; KLD Loss:0; Accuracy:18758/25608=0.7325; Average Acc:0.7657; Kappa:0.8818; MSE:0.3443; lr:0.0001
+Epoch 10: train CE Loss:0.5793; KLD Loss:0; Accuracy:19948/27208=0.7332; Average Acc:0.7666; Kappa:0.8825; MSE:0.3419; lr:0.0001
+Epoch 10: train CE Loss:0.5791; KLD Loss:0; Accuracy:21127/28808=0.7334; Average Acc:0.7665; Kappa:0.883; MSE:0.3405; lr:0.0001
+Epoch 10: train CE Loss:0.5805; KLD Loss:0; Accuracy:22290/30408=0.733; Average Acc:0.7665; Kappa:0.8828; MSE:0.3403; lr:0.0001
+Epoch 10: train CE Loss:0.5796; KLD Loss:0; Accuracy:23471/32008=0.7333; Average Acc:0.7668; Kappa:0.8833; MSE:0.3394; lr:0.0001
+Epoch 10: train CE Loss:0.5793; KLD Loss:0; Accuracy:24058/32816=0.7331; Average Acc:0.7666; Kappa:0.8833; MSE:0.3395; lr:0.0001
+********************
+Epoch 10: val CE Loss:0.6682; KLD Loss:0; Accuracy:3175/4676=0.679; Average Acc:0.7402; Kappa:0.8623; MSE:0.3828
+[[0.25727117 0.13002566 0.00491873 0.00042772 0.        ]
+ [0.03079555 0.13922156 0.0213858  0.00449102 0.        ]
+ [0.0081266  0.06394354 0.14007699 0.03977759 0.00021386]
+ [0.         0.00149701 0.00898204 0.10735672 0.00171086]
+ [0.         0.         0.00021386 0.00449102 0.03507271]]
+********************
+Epoch 11: train CE Loss:0.6152; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.9167; Kappa:0.9394; MSE:0.125; lr:0.0001
+Epoch 11: train CE Loss:0.5478; KLD Loss:0; Accuracy:1212/1608=0.7537; Average Acc:0.7901; Kappa:0.8971; MSE:0.3016; lr:0.0001
+Epoch 11: train CE Loss:0.5648; KLD Loss:0; Accuracy:2394/3208=0.7463; Average Acc:0.7741; Kappa:0.895; MSE:0.312; lr:0.0001
+Epoch 11: train CE Loss:0.553; KLD Loss:0; Accuracy:3619/4808=0.7527; Average Acc:0.7819; Kappa:0.8955; MSE:0.3066; lr:0.0001
+Epoch 11: train CE Loss:0.5603; KLD Loss:0; Accuracy:4777/6408=0.7455; Average Acc:0.7769; Kappa:0.8915; MSE:0.3152; lr:0.0001
+Epoch 11: train CE Loss:0.5733; KLD Loss:0; Accuracy:5934/8008=0.741; Average Acc:0.7745; Kappa:0.8886; MSE:0.325; lr:0.0001
+Epoch 11: train CE Loss:0.5673; KLD Loss:0; Accuracy:7136/9608=0.7427; Average Acc:0.7768; Kappa:0.8894; MSE:0.323; lr:0.0001
+Epoch 11: train CE Loss:0.5682; KLD Loss:0; Accuracy:8286/11208=0.7393; Average Acc:0.7736; Kappa:0.8885; MSE:0.3261; lr:0.0001
+Epoch 11: train CE Loss:0.5707; KLD Loss:0; Accuracy:9468/12808=0.7392; Average Acc:0.773; Kappa:0.8887; MSE:0.326; lr:0.0001
+Epoch 11: train CE Loss:0.5708; KLD Loss:0; Accuracy:10653/14408=0.7394; Average Acc:0.7742; Kappa:0.8875; MSE:0.3279; lr:0.0001
+Epoch 11: train CE Loss:0.5685; KLD Loss:0; Accuracy:11849/16008=0.7402; Average Acc:0.7748; Kappa:0.8879; MSE:0.3267; lr:0.0001
+Epoch 11: train CE Loss:0.5681; KLD Loss:0; Accuracy:13036/17608=0.7403; Average Acc:0.7748; Kappa:0.8879; MSE:0.3272; lr:0.0001
+Epoch 11: train CE Loss:0.5693; KLD Loss:0; Accuracy:14214/19208=0.74; Average Acc:0.7744; Kappa:0.8872; MSE:0.3279; lr:0.0001
+Epoch 11: train CE Loss:0.5696; KLD Loss:0; Accuracy:15370/20808=0.7387; Average Acc:0.7735; Kappa:0.8872; MSE:0.3285; lr:0.0001
+Epoch 11: train CE Loss:0.5711; KLD Loss:0; Accuracy:16548/22408=0.7385; Average Acc:0.7733; Kappa:0.8864; MSE:0.3312; lr:0.0001
+Epoch 11: train CE Loss:0.5715; KLD Loss:0; Accuracy:17752/24008=0.7394; Average Acc:0.7741; Kappa:0.8858; MSE:0.3324; lr:0.0001
+Epoch 11: train CE Loss:0.5707; KLD Loss:0; Accuracy:18948/25608=0.7399; Average Acc:0.7743; Kappa:0.8859; MSE:0.3324; lr:0.0001
+Epoch 11: train CE Loss:0.5715; KLD Loss:0; Accuracy:20107/27208=0.739; Average Acc:0.7735; Kappa:0.8859; MSE:0.3333; lr:0.0001
+Epoch 11: train CE Loss:0.5711; KLD Loss:0; Accuracy:21302/28808=0.7394; Average Acc:0.7739; Kappa:0.8861; MSE:0.332; lr:0.0001
+Epoch 11: train CE Loss:0.572; KLD Loss:0; Accuracy:22482/30408=0.7393; Average Acc:0.7732; Kappa:0.886; MSE:0.3321; lr:0.0001
+Epoch 11: train CE Loss:0.5699; KLD Loss:0; Accuracy:23681/32008=0.7398; Average Acc:0.7739; Kappa:0.8862; MSE:0.3312; lr:0.0001
+Epoch 11: train CE Loss:0.5706; KLD Loss:0; Accuracy:24273/32816=0.7397; Average Acc:0.7738; Kappa:0.886; MSE:0.3316; lr:0.0001
+********************
+Epoch 11: val CE Loss:0.6653; KLD Loss:0; Accuracy:3344/4676=0.7151; Average Acc:0.7249; Kappa:0.8659; MSE:0.4001
+[[0.34901625 0.03443114 0.00919589 0.         0.        ]
+ [0.09388366 0.07463644 0.02566296 0.00171086 0.        ]
+ [0.02245509 0.04726262 0.15440547 0.0280154  0.        ]
+ [0.00021386 0.0040633  0.01047904 0.10158255 0.00320787]
+ [0.         0.         0.00042772 0.00384944 0.03550043]]
+********************
+Epoch 12: train CE Loss:1; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.4889; Kappa:0.68; MSE:0.25; lr:0.0001
+Epoch 12: train CE Loss:0.5891; KLD Loss:0; Accuracy:1179/1608=0.7332; Average Acc:0.7608; Kappa:0.8827; MSE:0.3433; lr:0.0001
+Epoch 12: train CE Loss:0.5534; KLD Loss:0; Accuracy:2397/3208=0.7472; Average Acc:0.7752; Kappa:0.8931; MSE:0.3164; lr:0.0001
+Epoch 12: train CE Loss:0.5614; KLD Loss:0; Accuracy:3596/4808=0.7479; Average Acc:0.7761; Kappa:0.8931; MSE:0.3132; lr:0.0001
+Epoch 12: train CE Loss:0.556; KLD Loss:0; Accuracy:4774/6408=0.745; Average Acc:0.7756; Kappa:0.8914; MSE:0.3154; lr:0.0001
+Epoch 12: train CE Loss:0.5587; KLD Loss:0; Accuracy:5968/8008=0.7453; Average Acc:0.7733; Kappa:0.8895; MSE:0.3193; lr:0.0001
+Epoch 12: train CE Loss:0.5592; KLD Loss:0; Accuracy:7151/9608=0.7443; Average Acc:0.7729; Kappa:0.8898; MSE:0.3195; lr:0.0001
+Epoch 12: train CE Loss:0.5559; KLD Loss:0; Accuracy:8363/11208=0.7462; Average Acc:0.7767; Kappa:0.8907; MSE:0.3175; lr:0.0001
+Epoch 12: train CE Loss:0.56; KLD Loss:0; Accuracy:9533/12808=0.7443; Average Acc:0.7749; Kappa:0.8889; MSE:0.3212; lr:0.0001
+Epoch 12: train CE Loss:0.557; KLD Loss:0; Accuracy:10739/14408=0.7453; Average Acc:0.7768; Kappa:0.8896; MSE:0.3185; lr:0.0001
+Epoch 12: train CE Loss:0.562; KLD Loss:0; Accuracy:11912/16008=0.7441; Average Acc:0.7757; Kappa:0.8888; MSE:0.3205; lr:0.0001
+Epoch 12: train CE Loss:0.5615; KLD Loss:0; Accuracy:13101/17608=0.744; Average Acc:0.7762; Kappa:0.8887; MSE:0.3215; lr:0.0001
+Epoch 12: train CE Loss:0.56; KLD Loss:0; Accuracy:14283/19208=0.7436; Average Acc:0.7769; Kappa:0.8881; MSE:0.3238; lr:0.0001
+Epoch 12: train CE Loss:0.5593; KLD Loss:0; Accuracy:15471/20808=0.7435; Average Acc:0.7771; Kappa:0.8882; MSE:0.3234; lr:0.0001
+Epoch 12: train CE Loss:0.5596; KLD Loss:0; Accuracy:16647/22408=0.7429; Average Acc:0.7759; Kappa:0.8882; MSE:0.3248; lr:0.0001
+Epoch 12: train CE Loss:0.5608; KLD Loss:0; Accuracy:17832/24008=0.7428; Average Acc:0.7761; Kappa:0.8876; MSE:0.3264; lr:0.0001
+Epoch 12: train CE Loss:0.5627; KLD Loss:0; Accuracy:18970/25608=0.7408; Average Acc:0.775; Kappa:0.887; MSE:0.3284; lr:0.0001
+Epoch 12: train CE Loss:0.562; KLD Loss:0; Accuracy:20191/27208=0.7421; Average Acc:0.7761; Kappa:0.8874; MSE:0.3269; lr:0.0001
+Epoch 12: train CE Loss:0.5628; KLD Loss:0; Accuracy:21349/28808=0.7411; Average Acc:0.7757; Kappa:0.887; MSE:0.3273; lr:0.0001
+Epoch 12: train CE Loss:0.5612; KLD Loss:0; Accuracy:22558/30408=0.7418; Average Acc:0.7766; Kappa:0.8873; MSE:0.3265; lr:0.0001
+Epoch 12: train CE Loss:0.5616; KLD Loss:0; Accuracy:23755/32008=0.7422; Average Acc:0.7771; Kappa:0.8874; MSE:0.3262; lr:0.0001
+Epoch 12: train CE Loss:0.5614; KLD Loss:0; Accuracy:24377/32816=0.7428; Average Acc:0.7777; Kappa:0.8876; MSE:0.3258; lr:0.0001
+********************
+Epoch 12: val CE Loss:0.6427; KLD Loss:0; Accuracy:3342/4676=0.7147; Average Acc:0.7439; Kappa:0.8641; MSE:0.4061
+[[0.32527802 0.05517536 0.01176219 0.00042772 0.        ]
+ [0.06565441 0.09024808 0.034645   0.00534645 0.        ]
+ [0.01924722 0.036142   0.15911035 0.03721129 0.00042772]
+ [0.         0.00192472 0.00919589 0.10265184 0.00577417]
+ [0.         0.         0.00042772 0.00192472 0.03742515]]
+********************
+Epoch 13: train CE Loss:0.2201; KLD Loss:0; Accuracy:8/8=1; Average Acc:   1; Kappa:   1; MSE:   0; lr:0.0001
+Epoch 13: train CE Loss:0.5241; KLD Loss:0; Accuracy:1204/1608=0.7488; Average Acc:0.7928; Kappa:0.8919; MSE:0.3159; lr:0.0001
+Epoch 13: train CE Loss:0.5431; KLD Loss:0; Accuracy:2385/3208=0.7435; Average Acc:0.7797; Kappa:0.8914; MSE:0.3208; lr:0.0001
+Epoch 13: train CE Loss:0.5508; KLD Loss:0; Accuracy:3563/4808=0.7411; Average Acc:0.7731; Kappa:0.888; MSE:0.3299; lr:0.0001
+Epoch 13: train CE Loss:0.5398; KLD Loss:0; Accuracy:4789/6408=0.7473; Average Acc:0.7779; Kappa:0.8914; MSE:0.3213; lr:0.0001
+Epoch 13: train CE Loss:0.5427; KLD Loss:0; Accuracy:5983/8008=0.7471; Average Acc:0.7794; Kappa:0.8897; MSE:0.3242; lr:0.0001
+Epoch 13: train CE Loss:0.5426; KLD Loss:0; Accuracy:7176/9608=0.7469; Average Acc:0.7808; Kappa:0.8902; MSE:0.3224; lr:0.0001
+Epoch 13: train CE Loss:0.544; KLD Loss:0; Accuracy:8365/11208=0.7463; Average Acc:0.7806; Kappa:0.8901; MSE:0.3226; lr:0.0001
+Epoch 13: train CE Loss:0.5467; KLD Loss:0; Accuracy:9567/12808=0.747; Average Acc:0.7815; Kappa:0.889; MSE:0.3248; lr:0.0001
+Epoch 13: train CE Loss:0.5458; KLD Loss:0; Accuracy:10810/14408=0.7503; Average Acc:0.7838; Kappa:0.8896; MSE:0.3232; lr:0.0001
+Epoch 13: train CE Loss:0.5445; KLD Loss:0; Accuracy:12045/16008=0.7524; Average Acc:0.785; Kappa:0.891; MSE:0.3197; lr:0.0001
+Epoch 13: train CE Loss:0.5449; KLD Loss:0; Accuracy:13239/17608=0.7519; Average Acc:0.7842; Kappa:0.891; MSE:0.3204; lr:0.0001
+Epoch 13: train CE Loss:0.5455; KLD Loss:0; Accuracy:14433/19208=0.7514; Average Acc:0.7848; Kappa:0.8903; MSE:0.3212; lr:0.0001
+Epoch 13: train CE Loss:0.5464; KLD Loss:0; Accuracy:15644/20808=0.7518; Average Acc:0.7839; Kappa:0.8911; MSE:0.3203; lr:0.0001
+Epoch 13: train CE Loss:0.5472; KLD Loss:0; Accuracy:16808/22408=0.7501; Average Acc:0.7829; Kappa:0.8902; MSE:0.3226; lr:0.0001
+Epoch 13: train CE Loss:0.5478; KLD Loss:0; Accuracy:17999/24008=0.7497; Average Acc:0.7828; Kappa:0.8904; MSE:0.3218; lr:0.0001
+Epoch 13: train CE Loss:0.5472; KLD Loss:0; Accuracy:19224/25608=0.7507; Average Acc:0.7837; Kappa:0.8907; MSE:0.3204; lr:0.0001
+Epoch 13: train CE Loss:0.5476; KLD Loss:0; Accuracy:20408/27208=0.7501; Average Acc:0.7836; Kappa:0.8904; MSE:0.3205; lr:0.0001
+Epoch 13: train CE Loss:0.5505; KLD Loss:0; Accuracy:21555/28808=0.7482; Average Acc:0.782; Kappa:0.8896; MSE:0.3226; lr:0.0001
+Epoch 13: train CE Loss:0.5505; KLD Loss:0; Accuracy:22754/30408=0.7483; Average Acc:0.7827; Kappa:0.8896; MSE:0.322; lr:0.0001
+Epoch 13: train CE Loss:0.5517; KLD Loss:0; Accuracy:23933/32008=0.7477; Average Acc:0.782; Kappa:0.889; MSE:0.3235; lr:0.0001
+Epoch 13: train CE Loss:0.5529; KLD Loss:0; Accuracy:24516/32816=0.7471; Average Acc:0.7811; Kappa:0.8887; MSE:0.3242; lr:0.0001
+********************
+Epoch 13: val CE Loss:0.637; KLD Loss:0; Accuracy:3228/4676=0.6903; Average Acc:0.7486; Kappa:0.8673; MSE:0.3809
+[[0.28058169 0.10500428 0.00705731 0.         0.        ]
+ [0.04341317 0.12211292 0.02694611 0.00342173 0.        ]
+ [0.01047904 0.05731394 0.14456801 0.03977759 0.        ]
+ [0.         0.0025663  0.00620188 0.10521814 0.00556031]
+ [0.         0.         0.00021386 0.00171086 0.03785287]]
+********************
+Epoch 14: train CE Loss:0.4892; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.875; Kappa:0.9474; MSE:0.125; lr:0.0001
+Epoch 14: train CE Loss:0.5805; KLD Loss:0; Accuracy:1197/1608=0.7444; Average Acc:0.7691; Kappa:0.8912; MSE:0.3209; lr:0.0001
+Epoch 14: train CE Loss:0.5827; KLD Loss:0; Accuracy:2355/3208=0.7341; Average Acc:0.7683; Kappa:0.8854; MSE:0.3286; lr:0.0001
+Epoch 14: train CE Loss:0.569; KLD Loss:0; Accuracy:3528/4808=0.7338; Average Acc:0.7693; Kappa:0.885; MSE:0.3334; lr:0.0001
+Epoch 14: train CE Loss:0.5678; KLD Loss:0; Accuracy:4716/6408=0.736; Average Acc:0.7736; Kappa:0.8842; MSE:0.3302; lr:0.0001
+Epoch 14: train CE Loss:0.5611; KLD Loss:0; Accuracy:5904/8008=0.7373; Average Acc:0.7751; Kappa:0.8855; MSE:0.3288; lr:0.0001
+Epoch 14: train CE Loss:0.5575; KLD Loss:0; Accuracy:7117/9608=0.7407; Average Acc:0.7783; Kappa:0.8865; MSE:0.3264; lr:0.0001
+Epoch 14: train CE Loss:0.5563; KLD Loss:0; Accuracy:8329/11208=0.7431; Average Acc:0.7806; Kappa:0.8867; MSE:0.3253; lr:0.0001
+Epoch 14: train CE Loss:0.5563; KLD Loss:0; Accuracy:9525/12808=0.7437; Average Acc:0.78; Kappa:0.8875; MSE:0.3244; lr:0.0001
+Epoch 14: train CE Loss:0.5548; KLD Loss:0; Accuracy:10735/14408=0.7451; Average Acc:0.7814; Kappa:0.8878; MSE:0.3231; lr:0.0001
+Epoch 14: train CE Loss:0.5523; KLD Loss:0; Accuracy:11936/16008=0.7456; Average Acc:0.7817; Kappa:0.888; MSE:0.3231; lr:0.0001
+Epoch 14: train CE Loss:0.55; KLD Loss:0; Accuracy:13128/17608=0.7456; Average Acc:0.7816; Kappa:0.8882; MSE:0.3232; lr:0.0001
+Epoch 14: train CE Loss:0.5479; KLD Loss:0; Accuracy:14335/19208=0.7463; Average Acc:0.7825; Kappa:0.888; MSE:0.3237; lr:0.0001
+Epoch 14: train CE Loss:0.5498; KLD Loss:0; Accuracy:15514/20808=0.7456; Average Acc:0.7811; Kappa:0.8881; MSE:0.3241; lr:0.0001
+Epoch 14: train CE Loss:0.5486; KLD Loss:0; Accuracy:16705/22408=0.7455; Average Acc:0.7811; Kappa:0.888; MSE:0.3249; lr:0.0001
+Epoch 14: train CE Loss:0.5485; KLD Loss:0; Accuracy:17920/24008=0.7464; Average Acc:0.7815; Kappa:0.8882; MSE:0.3244; lr:0.0001
+Epoch 14: train CE Loss:0.5489; KLD Loss:0; Accuracy:19138/25608=0.7473; Average Acc:0.7821; Kappa:0.889; MSE:0.3222; lr:0.0001
+Epoch 14: train CE Loss:0.5491; KLD Loss:0; Accuracy:20332/27208=0.7473; Average Acc:0.7825; Kappa:0.8893; MSE:0.3214; lr:0.0001
+Epoch 14: train CE Loss:0.5503; KLD Loss:0; Accuracy:21515/28808=0.7468; Average Acc:0.7825; Kappa:0.889; MSE:0.322; lr:0.0001
+Epoch 14: train CE Loss:0.5469; KLD Loss:0; Accuracy:22766/30408=0.7487; Average Acc:0.784; Kappa:0.8899; MSE:0.3191; lr:0.0001
+Epoch 14: train CE Loss:0.5461; KLD Loss:0; Accuracy:23958/32008=0.7485; Average Acc:0.7839; Kappa:0.89; MSE:0.3196; lr:0.0001
+Epoch 14: train CE Loss:0.5458; KLD Loss:0; Accuracy:24577/32816=0.7489; Average Acc:0.7844; Kappa:0.8898; MSE:0.3201; lr:0.0001
+********************
+Epoch 14: val CE Loss:0.7034; KLD Loss:0; Accuracy:3287/4676=0.703; Average Acc:0.7262; Kappa:0.8659; MSE:0.4074
+[[0.34345595 0.04191617 0.00727117 0.         0.        ]
+ [0.08682635 0.0789136  0.02780154 0.00235244 0.        ]
+ [0.02309666 0.04982891 0.14371257 0.03507271 0.00042772]
+ [0.         0.00342173 0.00769889 0.0988024  0.00962361]
+ [0.         0.         0.00021386 0.00149701 0.03806672]]
+********************
+Epoch 15: train CE Loss:0.5482; KLD Loss:0; Accuracy:4/8=0.5; Average Acc:0.48; Kappa:0.8316; MSE: 0.5; lr:0.0001
+Epoch 15: train CE Loss:0.4833; KLD Loss:0; Accuracy:1237/1608=0.7693; Average Acc:0.8001; Kappa:0.9002; MSE:0.3016; lr:0.0001
+Epoch 15: train CE Loss:0.5157; KLD Loss:0; Accuracy:2451/3208=0.764; Average Acc:0.7961; Kappa:0.8948; MSE:0.307; lr:0.0001
+Epoch 15: train CE Loss:0.533; KLD Loss:0; Accuracy:3617/4808=0.7523; Average Acc:0.7884; Kappa:0.8909; MSE:0.317; lr:0.0001
+Epoch 15: train CE Loss:0.5204; KLD Loss:0; Accuracy:4864/6408=0.7591; Average Acc:0.7957; Kappa:0.896; MSE:0.3013; lr:0.0001
+Epoch 15: train CE Loss:0.5256; KLD Loss:0; Accuracy:6063/8008=0.7571; Average Acc:0.794; Kappa:0.8954; MSE:0.3046; lr:0.0001
+Epoch 15: train CE Loss:0.5245; KLD Loss:0; Accuracy:7270/9608=0.7567; Average Acc:0.7921; Kappa:0.8946; MSE:0.3066; lr:0.0001
+Epoch 15: train CE Loss:0.5279; KLD Loss:0; Accuracy:8504/11208=0.7587; Average Acc:0.7945; Kappa:0.8939; MSE:0.3081; lr:0.0001
+Epoch 15: train CE Loss:0.5336; KLD Loss:0; Accuracy:9691/12808=0.7566; Average Acc:0.7918; Kappa:0.8935; MSE:0.3096; lr:0.0001
+Epoch 15: train CE Loss:0.5335; KLD Loss:0; Accuracy:10885/14408=0.7555; Average Acc:0.7892; Kappa:0.8933; MSE:0.3115; lr:0.0001
+Epoch 15: train CE Loss:0.5342; KLD Loss:0; Accuracy:12118/16008=0.757; Average Acc:0.7915; Kappa:0.8935; MSE:0.3098; lr:0.0001
+Epoch 15: train CE Loss:0.5363; KLD Loss:0; Accuracy:13313/17608=0.7561; Average Acc:0.7912; Kappa:0.8926; MSE:0.3118; lr:0.0001
+Epoch 15: train CE Loss:0.5363; KLD Loss:0; Accuracy:14518/19208=0.7558; Average Acc:0.7911; Kappa:0.8923; MSE:0.3125; lr:0.0001
+Epoch 15: train CE Loss:0.5347; KLD Loss:0; Accuracy:15709/20808=0.755; Average Acc:0.7907; Kappa:0.892; MSE:0.3143; lr:0.0001
+Epoch 15: train CE Loss:0.533; KLD Loss:0; Accuracy:16923/22408=0.7552; Average Acc:0.7908; Kappa:0.8923; MSE:0.3141; lr:0.0001
+Epoch 15: train CE Loss:0.5331; KLD Loss:0; Accuracy:18129/24008=0.7551; Average Acc:0.7904; Kappa:0.8925; MSE:0.3134; lr:0.0001
+Epoch 15: train CE Loss:0.5347; KLD Loss:0; Accuracy:19337/25608=0.7551; Average Acc:0.7905; Kappa:0.8922; MSE:0.3136; lr:0.0001
+Epoch 15: train CE Loss:0.5359; KLD Loss:0; Accuracy:20547/27208=0.7552; Average Acc:0.7902; Kappa:0.8921; MSE:0.3136; lr:0.0001
+Epoch 15: train CE Loss:0.5351; KLD Loss:0; Accuracy:21758/28808=0.7553; Average Acc:0.7904; Kappa:0.8924; MSE:0.313; lr:0.0001
+Epoch 15: train CE Loss:0.5369; KLD Loss:0; Accuracy:22936/30408=0.7543; Average Acc:0.7898; Kappa:0.8918; MSE:0.3142; lr:0.0001
+Epoch 15: train CE Loss:0.5359; KLD Loss:0; Accuracy:24158/32008=0.7547; Average Acc:0.7902; Kappa:0.8921; MSE:0.3135; lr:0.0001
+Epoch 15: train CE Loss:0.5371; KLD Loss:0; Accuracy:24762/32816=0.7546; Average Acc:0.7899; Kappa:0.8919; MSE:0.3141; lr:0.0001
+********************
+Epoch 15: val CE Loss:0.6605; KLD Loss:0; Accuracy:3254/4676=0.6959; Average Acc:0.7463; Kappa:0.8618; MSE:0.3965
+[[0.27972626 0.10008554 0.01283148 0.         0.        ]
+ [0.04255774 0.1109923  0.03977759 0.0025663  0.        ]
+ [0.01112062 0.04148845 0.16958939 0.02865697 0.00128315]
+ [0.         0.00299401 0.0106929  0.09709153 0.00876818]
+ [0.         0.         0.         0.00128315 0.03849444]]
+********************
+Epoch 16: train CE Loss:0.7479; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.75; Kappa:0.6296; MSE:0.625; lr:0.0001
+Epoch 16: train CE Loss:0.5142; KLD Loss:0; Accuracy:1222/1608=0.76; Average Acc:0.7965; Kappa:0.8984; MSE:0.2998; lr:0.0001
+Epoch 16: train CE Loss:0.5272; KLD Loss:0; Accuracy:2422/3208=0.755; Average Acc:0.7897; Kappa:0.8979; MSE:0.2955; lr:0.0001
+Epoch 16: train CE Loss:0.5312; KLD Loss:0; Accuracy:3628/4808=0.7546; Average Acc:0.789; Kappa:0.8979; MSE:0.296; lr:0.0001
+Epoch 16: train CE Loss:0.5299; KLD Loss:0; Accuracy:4837/6408=0.7548; Average Acc:0.7878; Kappa:0.896; MSE:0.3009; lr:0.0001
+Epoch 16: train CE Loss:0.5274; KLD Loss:0; Accuracy:6039/8008=0.7541; Average Acc:0.7893; Kappa:0.8962; MSE:0.3032; lr:0.0001
+Epoch 16: train CE Loss:0.5254; KLD Loss:0; Accuracy:7267/9608=0.7563; Average Acc:0.7914; Kappa:0.8969; MSE:0.2988; lr:0.0001
+Epoch 16: train CE Loss:0.5219; KLD Loss:0; Accuracy:8486/11208=0.7571; Average Acc:0.7918; Kappa:0.8976; MSE:0.2988; lr:0.0001
+Epoch 16: train CE Loss:0.5249; KLD Loss:0; Accuracy:9688/12808=0.7564; Average Acc:0.7906; Kappa:0.8965; MSE:0.3019; lr:0.0001
+Epoch 16: train CE Loss:0.5252; KLD Loss:0; Accuracy:10892/14408=0.756; Average Acc:0.79; Kappa:0.8966; MSE:0.3015; lr:0.0001
+Epoch 16: train CE Loss:0.5295; KLD Loss:0; Accuracy:12087/16008=0.7551; Average Acc:0.7896; Kappa:0.8962; MSE:0.301; lr:0.0001
+Epoch 16: train CE Loss:0.5333; KLD Loss:0; Accuracy:13287/17608=0.7546; Average Acc:0.7891; Kappa:0.8951; MSE:0.3033; lr:0.0001
+Epoch 16: train CE Loss:0.5327; KLD Loss:0; Accuracy:14487/19208=0.7542; Average Acc:0.7896; Kappa:0.895; MSE:0.3044; lr:0.0001
+Epoch 16: train CE Loss:0.5312; KLD Loss:0; Accuracy:15713/20808=0.7551; Average Acc:0.7898; Kappa:0.8954; MSE:0.3041; lr:0.0001
+Epoch 16: train CE Loss:0.5301; KLD Loss:0; Accuracy:16927/22408=0.7554; Average Acc:0.79; Kappa:0.8956; MSE:0.3039; lr:0.0001
+Epoch 16: train CE Loss:0.5291; KLD Loss:0; Accuracy:18131/24008=0.7552; Average Acc:0.7901; Kappa:0.8955; MSE:0.3036; lr:0.0001
+Epoch 16: train CE Loss:0.5281; KLD Loss:0; Accuracy:19367/25608=0.7563; Average Acc:0.7914; Kappa:0.8958; MSE:0.3024; lr:0.0001
+Epoch 16: train CE Loss:0.5293; KLD Loss:0; Accuracy:20562/27208=0.7557; Average Acc:0.7908; Kappa:0.8958; MSE:0.3028; lr:0.0001
+Epoch 16: train CE Loss:0.5288; KLD Loss:0; Accuracy:21784/28808=0.7562; Average Acc:0.791; Kappa:0.8956; MSE:0.3037; lr:0.0001
+Epoch 16: train CE Loss:0.5294; KLD Loss:0; Accuracy:22979/30408=0.7557; Average Acc:0.7906; Kappa:0.8951; MSE:0.3056; lr:0.0001
+Epoch 16: train CE Loss:0.5279; KLD Loss:0; Accuracy:24237/32008=0.7572; Average Acc:0.7918; Kappa:0.8957; MSE:0.3033; lr:0.0001
+Epoch 16: train CE Loss:0.5282; KLD Loss:0; Accuracy:24855/32816=0.7574; Average Acc:0.7919; Kappa:0.8956; MSE:0.3033; lr:0.0001
+********************
+Epoch 16: val CE Loss:0.7108; KLD Loss:0; Accuracy:3090/4676=0.6608; Average Acc:0.7327; Kappa:0.8311; MSE:0.4611
+[[0.22070145 0.14242943 0.0295124  0.         0.        ]
+ [0.01796407 0.11462789 0.06052181 0.00278015 0.        ]
+ [0.00598802 0.03100941 0.19375535 0.0213858  0.        ]
+ [0.         0.00213858 0.01625321 0.09324209 0.00791275]
+ [0.         0.         0.00021386 0.00106929 0.03849444]]
+********************
+Epoch 17: train CE Loss:0.2899; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.75; Kappa:0.8333; MSE:0.25; lr:0.0001
+Epoch 17: train CE Loss:0.4803; KLD Loss:0; Accuracy:1240/1608=0.7711; Average Acc:0.8028; Kappa:0.91; MSE:0.2643; lr:0.0001
+Epoch 17: train CE Loss:0.5301; KLD Loss:0; Accuracy:2412/3208=0.7519; Average Acc:0.7863; Kappa:0.8948; MSE:0.2996; lr:0.0001
+Epoch 17: train CE Loss:0.5229; KLD Loss:0; Accuracy:3615/4808=0.7519; Average Acc:0.7882; Kappa:0.8946; MSE:0.3035; lr:0.0001
+Epoch 17: train CE Loss:0.518; KLD Loss:0; Accuracy:4842/6408=0.7556; Average Acc:0.7892; Kappa:0.8976; MSE:0.2985; lr:0.0001
+Epoch 17: train CE Loss:0.5196; KLD Loss:0; Accuracy:6068/8008=0.7577; Average Acc:0.7914; Kappa:0.8979; MSE:0.298; lr:0.0001
+Epoch 17: train CE Loss:0.5216; KLD Loss:0; Accuracy:7305/9608=0.7603; Average Acc:0.7948; Kappa:0.8972; MSE:0.298; lr:0.0001
+Epoch 17: train CE Loss:0.5177; KLD Loss:0; Accuracy:8556/11208=0.7634; Average Acc:0.7982; Kappa:0.8992; MSE:0.2935; lr:0.0001
+Epoch 17: train CE Loss:0.5211; KLD Loss:0; Accuracy:9761/12808=0.7621; Average Acc:0.7982; Kappa:0.8979; MSE:0.2957; lr:0.0001
+Epoch 17: train CE Loss:0.528; KLD Loss:0; Accuracy:10932/14408=0.7587; Average Acc:0.7953; Kappa:0.8955; MSE:0.3018; lr:0.0001
+Epoch 17: train CE Loss:0.5287; KLD Loss:0; Accuracy:12137/16008=0.7582; Average Acc:0.7943; Kappa:0.895; MSE:0.3027; lr:0.0001
+Epoch 17: train CE Loss:0.5259; KLD Loss:0; Accuracy:13372/17608=0.7594; Average Acc:0.7959; Kappa:0.8955; MSE:0.3028; lr:0.0001
+Epoch 17: train CE Loss:0.5259; KLD Loss:0; Accuracy:14599/19208=0.76; Average Acc:0.7961; Kappa:0.8956; MSE:0.3028; lr:0.0001
+Epoch 17: train CE Loss:0.5234; KLD Loss:0; Accuracy:15828/20808=0.7607; Average Acc:0.7968; Kappa:0.8958; MSE:0.3028; lr:0.0001
+Epoch 17: train CE Loss:0.528; KLD Loss:0; Accuracy:16995/22408=0.7584; Average Acc:0.795; Kappa:0.8946; MSE:0.3058; lr:0.0001
+Epoch 17: train CE Loss:0.5253; KLD Loss:0; Accuracy:18214/24008=0.7587; Average Acc:0.7955; Kappa:0.8949; MSE:0.3046; lr:0.0001
+Epoch 17: train CE Loss:0.5258; KLD Loss:0; Accuracy:19434/25608=0.7589; Average Acc:0.7952; Kappa:0.8952; MSE:0.3039; lr:0.0001
+Epoch 17: train CE Loss:0.5262; KLD Loss:0; Accuracy:20652/27208=0.759; Average Acc:0.7951; Kappa:0.8947; MSE:0.3049; lr:0.0001
+Epoch 17: train CE Loss:0.5237; KLD Loss:0; Accuracy:21877/28808=0.7594; Average Acc:0.7954; Kappa:0.8953; MSE:0.3034; lr:0.0001
+Epoch 17: train CE Loss:0.5248; KLD Loss:0; Accuracy:23074/30408=0.7588; Average Acc:0.795; Kappa:0.895; MSE:0.3045; lr:0.0001
+Epoch 17: train CE Loss:0.523; KLD Loss:0; Accuracy:24311/32008=0.7595; Average Acc:0.7957; Kappa:0.895; MSE:0.3045; lr:0.0001
+Epoch 17: train CE Loss:0.5211; KLD Loss:0; Accuracy:24951/32816=0.7603; Average Acc:0.796; Kappa:0.8956; MSE:0.3032; lr:0.0001
+********************
+Epoch 17: val CE Loss:0.6939; KLD Loss:0; Accuracy:3293/4676=0.7042; Average Acc:0.7327; Kappa:0.8656; MSE:0.401
+[[0.32591959 0.05731394 0.00940975 0.         0.        ]
+ [0.07570573 0.08917879 0.02887083 0.00213858 0.        ]
+ [0.01817793 0.04811805 0.15846878 0.02566296 0.00171086]
+ [0.         0.00363559 0.01240376 0.09153122 0.01197605]
+ [0.         0.         0.         0.00064157 0.03913601]]
+********************
+Epoch 18: train CE Loss:0.7275; KLD Loss:0; Accuracy:6/8=0.75; Average Acc: 0.7; Kappa:0.9091; MSE:0.25; lr:0.0001
+Epoch 18: train CE Loss:0.5173; KLD Loss:0; Accuracy:1195/1608=0.7432; Average Acc:0.7878; Kappa:0.889; MSE:0.3147; lr:0.0001
+Epoch 18: train CE Loss:0.5285; KLD Loss:0; Accuracy:2398/3208=0.7475; Average Acc:0.7826; Kappa:0.8947; MSE:0.3067; lr:0.0001
+Epoch 18: train CE Loss:0.5264; KLD Loss:0; Accuracy:3595/4808=0.7477; Average Acc:0.79; Kappa:0.892; MSE:0.3091; lr:0.0001
+Epoch 18: train CE Loss:0.5319; KLD Loss:0; Accuracy:4819/6408=0.752; Average Acc:0.7926; Kappa:0.8921; MSE:0.3068; lr:0.0001
+Epoch 18: train CE Loss:0.5258; KLD Loss:0; Accuracy:6060/8008=0.7567; Average Acc:0.7967; Kappa:0.8936; MSE:0.3049; lr:0.0001
+Epoch 18: train CE Loss:0.521; KLD Loss:0; Accuracy:7291/9608=0.7588; Average Acc:0.799; Kappa:0.8946; MSE:0.3029; lr:0.0001
+Epoch 18: train CE Loss:0.5157; KLD Loss:0; Accuracy:8543/11208=0.7622; Average Acc:0.7997; Kappa:0.8965; MSE:0.2992; lr:0.0001
+Epoch 18: train CE Loss:0.5158; KLD Loss:0; Accuracy:9751/12808=0.7613; Average Acc:0.7977; Kappa:0.8966; MSE:0.3001; lr:0.0001
+Epoch 18: train CE Loss:0.519; KLD Loss:0; Accuracy:10965/14408=0.761; Average Acc:0.7974; Kappa:0.8962; MSE: 0.3; lr:0.0001
+Epoch 18: train CE Loss:0.516; KLD Loss:0; Accuracy:12164/16008=0.7599; Average Acc:0.7965; Kappa:0.8953; MSE:0.302; lr:0.0001
+Epoch 18: train CE Loss:0.5138; KLD Loss:0; Accuracy:13397/17608=0.7608; Average Acc:0.7975; Kappa:0.896; MSE:0.3013; lr:0.0001
+Epoch 18: train CE Loss:0.5117; KLD Loss:0; Accuracy:14646/19208=0.7625; Average Acc:0.7992; Kappa:0.8967; MSE:0.299; lr:0.0001
+Epoch 18: train CE Loss:0.5124; KLD Loss:0; Accuracy:15896/20808=0.7639; Average Acc:0.7991; Kappa:0.8973; MSE:0.2972; lr:0.0001
+Epoch 18: train CE Loss:0.514; KLD Loss:0; Accuracy:17092/22408=0.7628; Average Acc:0.7984; Kappa:0.8968; MSE:0.2986; lr:0.0001
+Epoch 18: train CE Loss:0.516; KLD Loss:0; Accuracy:18299/24008=0.7622; Average Acc:0.7974; Kappa:0.8965; MSE:0.2997; lr:0.0001
+Epoch 18: train CE Loss:0.5154; KLD Loss:0; Accuracy:19518/25608=0.7622; Average Acc:0.7976; Kappa:0.8964; MSE:0.3003; lr:0.0001
+Epoch 18: train CE Loss:0.5157; KLD Loss:0; Accuracy:20729/27208=0.7619; Average Acc:0.7977; Kappa:0.8965; MSE:0.3003; lr:0.0001
+Epoch 18: train CE Loss:0.5161; KLD Loss:0; Accuracy:21944/28808=0.7617; Average Acc:0.7977; Kappa:0.8967; MSE:0.2996; lr:0.0001
+Epoch 18: train CE Loss:0.5166; KLD Loss:0; Accuracy:23163/30408=0.7617; Average Acc:0.7977; Kappa:0.8967; MSE:0.3002; lr:0.0001
+Epoch 18: train CE Loss:0.5173; KLD Loss:0; Accuracy:24379/32008=0.7617; Average Acc:0.7977; Kappa:0.8964; MSE:0.3009; lr:0.0001
+Epoch 18: train CE Loss:0.517; KLD Loss:0; Accuracy:24990/32816=0.7615; Average Acc:0.7978; Kappa:0.8962; MSE:0.3008; lr:0.0001
+********************
+Epoch 18: val CE Loss:0.6701; KLD Loss:0; Accuracy:3207/4676=0.6858; Average Acc:0.7446; Kappa:0.8517; MSE:0.4072
+[[0.25       0.12553464 0.01710864 0.         0.        ]
+ [0.03100941 0.12254063 0.03977759 0.0025663  0.        ]
+ [0.00769889 0.04384089 0.17664671 0.0239521  0.        ]
+ [0.         0.00342173 0.0132592  0.09987169 0.00299401]
+ [0.         0.         0.00021386 0.00278015 0.03678358]]
+********************
+Epoch 19: train CE Loss:0.8418; KLD Loss:0; Accuracy:5/8=0.625; Average Acc:0.4167; Kappa:0.8333; MSE:0.375; lr:0.0001
+Epoch 19: train CE Loss:0.4796; KLD Loss:0; Accuracy:1249/1608=0.7767; Average Acc:0.8158; Kappa:0.9044; MSE:0.2743; lr:0.0001
+Epoch 19: train CE Loss:0.4783; KLD Loss:0; Accuracy:2484/3208=0.7743; Average Acc:0.8121; Kappa:0.9034; MSE:0.2793; lr:0.0001
+Epoch 19: train CE Loss:0.4922; KLD Loss:0; Accuracy:3691/4808=0.7677; Average Acc:0.8032; Kappa:0.9009; MSE:0.2854; lr:0.0001
+Epoch 19: train CE Loss:0.5032; KLD Loss:0; Accuracy:4874/6408=0.7606; Average Acc:0.7992; Kappa:0.8962; MSE:0.2987; lr:0.0001
+Epoch 19: train CE Loss:0.4989; KLD Loss:0; Accuracy:6116/8008=0.7637; Average Acc:0.8021; Kappa:0.8984; MSE:0.2956; lr:0.0001
+Epoch 19: train CE Loss:0.4978; KLD Loss:0; Accuracy:7353/9608=0.7653; Average Acc:0.8038; Kappa:0.8983; MSE:0.2938; lr:0.0001
+Epoch 19: train CE Loss:0.5017; KLD Loss:0; Accuracy:8552/11208=0.763; Average Acc:0.8025; Kappa:0.8973; MSE:0.2962; lr:0.0001
+Epoch 19: train CE Loss:0.5065; KLD Loss:0; Accuracy:9773/12808=0.763; Average Acc:0.8016; Kappa:0.8964; MSE:0.2983; lr:0.0001
+Epoch 19: train CE Loss:0.5032; KLD Loss:0; Accuracy:11011/14408=0.7642; Average Acc:0.8024; Kappa:0.8976; MSE:0.2953; lr:0.0001
+Epoch 19: train CE Loss:0.5087; KLD Loss:0; Accuracy:12212/16008=0.7629; Average Acc:0.8006; Kappa:0.8965; MSE:0.2975; lr:0.0001
+Epoch 19: train CE Loss:0.5109; KLD Loss:0; Accuracy:13430/17608=0.7627; Average Acc: 0.8; Kappa:0.8957; MSE:0.2991; lr:0.0001
+Epoch 19: train CE Loss:0.5071; KLD Loss:0; Accuracy:14686/19208=0.7646; Average Acc:0.8013; Kappa:0.8966; MSE:0.2973; lr:0.0001
+Epoch 19: train CE Loss:0.5085; KLD Loss:0; Accuracy:15933/20808=0.7657; Average Acc:0.8019; Kappa:0.8967; MSE:0.2961; lr:0.0001
+Epoch 19: train CE Loss:0.5062; KLD Loss:0; Accuracy:17176/22408=0.7665; Average Acc:0.8021; Kappa:0.8972; MSE:0.2951; lr:0.0001
+Epoch 19: train CE Loss:0.507; KLD Loss:0; Accuracy:18370/24008=0.7652; Average Acc:0.8016; Kappa:0.8966; MSE:0.2967; lr:0.0001
+Epoch 19: train CE Loss:0.5051; KLD Loss:0; Accuracy:19597/25608=0.7653; Average Acc:0.8019; Kappa:0.897; MSE:0.2962; lr:0.0001
+Epoch 19: train CE Loss:0.5047; KLD Loss:0; Accuracy:20845/27208=0.7661; Average Acc:0.8029; Kappa:0.8974; MSE:0.2954; lr:0.0001
+Epoch 19: train CE Loss:0.5047; KLD Loss:0; Accuracy:22081/28808=0.7665; Average Acc:0.8031; Kappa:0.8979; MSE:0.2945; lr:0.0001
+Epoch 19: train CE Loss:0.506; KLD Loss:0; Accuracy:23271/30408=0.7653; Average Acc:0.802; Kappa:0.8978; MSE:0.2953; lr:0.0001
+Epoch 19: train CE Loss:0.5052; KLD Loss:0; Accuracy:24488/32008=0.7651; Average Acc:0.8016; Kappa:0.8981; MSE:0.2947; lr:0.0001
+Epoch 19: train CE Loss:0.5056; KLD Loss:0; Accuracy:25101/32816=0.7649; Average Acc:0.8015; Kappa:0.8979; MSE:0.2954; lr:0.0001
+********************
+Epoch 19: val CE Loss:0.7133; KLD Loss:0; Accuracy:3227/4676=0.6901; Average Acc:0.7202; Kappa:0.8424; MSE:0.4472
+[[0.27908469 0.08319076 0.03036784 0.         0.        ]
+ [0.04426861 0.09260051 0.05560308 0.00342173 0.        ]
+ [0.00919589 0.03143713 0.18071001 0.02994012 0.00085543]
+ [0.         0.00192472 0.01154833 0.10500428 0.00106929]
+ [0.         0.         0.         0.00705731 0.03272027]]
+********************
+Epoch 20: train CE Loss:0.5807; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.9333; Kappa:0.8571; MSE:0.125; lr:0.0001
+Epoch 20: train CE Loss:0.4642; KLD Loss:0; Accuracy:1250/1608=0.7774; Average Acc:0.8132; Kappa:0.9061; MSE:0.273; lr:0.0001
+Epoch 20: train CE Loss:0.4654; KLD Loss:0; Accuracy:2518/3208=0.7849; Average Acc:0.8199; Kappa:0.9061; MSE:0.2709; lr:0.0001
+Epoch 20: train CE Loss:0.4704; KLD Loss:0; Accuracy:3753/4808=0.7806; Average Acc:0.8156; Kappa:0.906; MSE:0.2716; lr:0.0001
+Epoch 20: train CE Loss:0.4812; KLD Loss:0; Accuracy:4979/6408=0.777; Average Acc:0.8106; Kappa:0.9036; MSE:0.279; lr:0.0001
+Epoch 20: train CE Loss:0.4872; KLD Loss:0; Accuracy:6209/8008=0.7753; Average Acc:0.8093; Kappa:0.9022; MSE:0.2828; lr:0.0001
+Epoch 20: train CE Loss:0.485; KLD Loss:0; Accuracy:7454/9608=0.7758; Average Acc:0.8114; Kappa:0.9023; MSE:0.2821; lr:0.0001
+Epoch 20: train CE Loss:0.4871; KLD Loss:0; Accuracy:8699/11208=0.7761; Average Acc:0.8111; Kappa:0.9033; MSE:0.2794; lr:0.0001
+Epoch 20: train CE Loss:0.4933; KLD Loss:0; Accuracy:9916/12808=0.7742; Average Acc:0.8086; Kappa:0.9016; MSE:0.2832; lr:0.0001
+Epoch 20: train CE Loss:0.4949; KLD Loss:0; Accuracy:11128/14408=0.7723; Average Acc:0.8081; Kappa:0.9008; MSE:0.2861; lr:0.0001
+Epoch 20: train CE Loss:0.4967; KLD Loss:0; Accuracy:12348/16008=0.7714; Average Acc:0.8066; Kappa:0.9002; MSE:0.2876; lr:0.0001
+Epoch 20: train CE Loss:0.4926; KLD Loss:0; Accuracy:13606/17608=0.7727; Average Acc:0.8077; Kappa:0.9013; MSE:0.2858; lr:0.0001
+Epoch 20: train CE Loss:0.4934; KLD Loss:0; Accuracy:14851/19208=0.7732; Average Acc:0.808; Kappa:0.901; MSE:0.286; lr:0.0001
+Epoch 20: train CE Loss:0.4925; KLD Loss:0; Accuracy:16111/20808=0.7743; Average Acc:0.8082; Kappa:0.9016; MSE:0.2845; lr:0.0001
+Epoch 20: train CE Loss:0.4937; KLD Loss:0; Accuracy:17329/22408=0.7733; Average Acc:0.8072; Kappa:0.9011; MSE:0.2857; lr:0.0001
+Epoch 20: train CE Loss:0.4956; KLD Loss:0; Accuracy:18564/24008=0.7732; Average Acc:0.8068; Kappa:0.901; MSE:0.2862; lr:0.0001
+Epoch 20: train CE Loss:0.4974; KLD Loss:0; Accuracy:19804/25608=0.7734; Average Acc:0.8066; Kappa:0.9008; MSE:0.2863; lr:0.0001
+Epoch 20: train CE Loss:0.497; KLD Loss:0; Accuracy:21035/27208=0.7731; Average Acc:0.8069; Kappa:0.9009; MSE:0.2864; lr:0.0001
+Epoch 20: train CE Loss:0.4971; KLD Loss:0; Accuracy:22276/28808=0.7733; Average Acc:0.807; Kappa:0.901; MSE:0.2865; lr:0.0001
+Epoch 20: train CE Loss:0.4979; KLD Loss:0; Accuracy:23492/30408=0.7726; Average Acc:0.8064; Kappa:0.9005; MSE:0.2875; lr:0.0001
+Epoch 20: train CE Loss:0.4978; KLD Loss:0; Accuracy:24722/32008=0.7724; Average Acc:0.8061; Kappa:0.9005; MSE:0.2878; lr:0.0001
+Epoch 20: train CE Loss:0.4972; KLD Loss:0; Accuracy:25358/32816=0.7727; Average Acc:0.8065; Kappa:0.9007; MSE:0.2874; lr:0.0001
+********************
+Epoch 20: val CE Loss:0.652; KLD Loss:0; Accuracy:3284/4676=0.7023; Average Acc:0.7383; Kappa:0.8591; MSE:0.3984
+[[0.29255774 0.08532934 0.0147562  0.         0.        ]
+ [0.04875962 0.10842601 0.03699743 0.00171086 0.        ]
+ [0.01240376 0.04790419 0.17172797 0.01967494 0.00042772]
+ [0.         0.00363559 0.01710864 0.0921728  0.0066296 ]
+ [0.         0.         0.00064157 0.00171086 0.03742515]]
+********************
+Epoch 21: train CE Loss:0.7521; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.75; Kappa: 0.9; MSE:0.25; lr:0.0001
+Epoch 21: train CE Loss:0.4694; KLD Loss:0; Accuracy:1268/1608=0.7886; Average Acc:0.8213; Kappa:0.9121; MSE:0.2562; lr:0.0001
+Epoch 21: train CE Loss:0.4594; KLD Loss:0; Accuracy:2535/3208=0.7902; Average Acc:0.8216; Kappa:0.9111; MSE:0.2634; lr:0.0001
+Epoch 21: train CE Loss:0.4778; KLD Loss:0; Accuracy:3741/4808=0.7781; Average Acc:0.8112; Kappa:0.9052; MSE:0.2793; lr:0.0001
+Epoch 21: train CE Loss:0.4827; KLD Loss:0; Accuracy:4994/6408=0.7793; Average Acc:0.812; Kappa:0.9057; MSE:0.2767; lr:0.0001
+Epoch 21: train CE Loss:0.4732; KLD Loss:0; Accuracy:6277/8008=0.7838; Average Acc:0.8164; Kappa:0.9082; MSE:0.2677; lr:0.0001
+Epoch 21: train CE Loss:0.4788; KLD Loss:0; Accuracy:7506/9608=0.7812; Average Acc:0.8154; Kappa:0.9068; MSE:0.2708; lr:0.0001
+Epoch 21: train CE Loss:0.4808; KLD Loss:0; Accuracy:8762/11208=0.7818; Average Acc:0.8147; Kappa:0.9068; MSE:0.2687; lr:0.0001
+Epoch 21: train CE Loss:0.4817; KLD Loss:0; Accuracy:9994/12808=0.7803; Average Acc:0.8136; Kappa:0.9052; MSE:0.2723; lr:0.0001
+Epoch 21: train CE Loss:0.4846; KLD Loss:0; Accuracy:11212/14408=0.7782; Average Acc:0.8119; Kappa:0.9037; MSE:0.2768; lr:0.0001
+Epoch 21: train CE Loss:0.4844; KLD Loss:0; Accuracy:12468/16008=0.7789; Average Acc:0.8128; Kappa:0.9038; MSE:0.2755; lr:0.0001
+Epoch 21: train CE Loss:0.4858; KLD Loss:0; Accuracy:13683/17608=0.7771; Average Acc:0.8122; Kappa:0.9036; MSE:0.2762; lr:0.0001
+Epoch 21: train CE Loss:0.4883; KLD Loss:0; Accuracy:14879/19208=0.7746; Average Acc:0.8111; Kappa:0.9019; MSE:0.2804; lr:0.0001
+Epoch 21: train CE Loss:0.4868; KLD Loss:0; Accuracy:16127/20808=0.775; Average Acc:0.8109; Kappa:0.9022; MSE:0.2805; lr:0.0001
+Epoch 21: train CE Loss:0.4845; KLD Loss:0; Accuracy:17357/22408=0.7746; Average Acc:0.8101; Kappa:0.9024; MSE:0.2804; lr:0.0001
+Epoch 21: train CE Loss:0.4839; KLD Loss:0; Accuracy:18607/24008=0.775; Average Acc:0.8107; Kappa:0.9033; MSE:0.2792; lr:0.0001
+Epoch 21: train CE Loss:0.4847; KLD Loss:0; Accuracy:19841/25608=0.7748; Average Acc:0.8102; Kappa:0.903; MSE:0.2796; lr:0.0001
+Epoch 21: train CE Loss:0.4839; KLD Loss:0; Accuracy:21092/27208=0.7752; Average Acc:0.8108; Kappa:0.903; MSE:0.2796; lr:0.0001
+Epoch 21: train CE Loss:0.4835; KLD Loss:0; Accuracy:22360/28808=0.7762; Average Acc:0.8117; Kappa:0.9035; MSE:0.2786; lr:0.0001
+Epoch 21: train CE Loss:0.4842; KLD Loss:0; Accuracy:23581/30408=0.7755; Average Acc:0.8111; Kappa:0.9035; MSE:0.2792; lr:0.0001
+Epoch 21: train CE Loss:0.4856; KLD Loss:0; Accuracy:24803/32008=0.7749; Average Acc:0.8107; Kappa:0.9032; MSE:0.2796; lr:0.0001
+Epoch 21: train CE Loss:0.4853; KLD Loss:0; Accuracy:25434/32816=0.775; Average Acc:0.8106; Kappa:0.9034; MSE:0.2792; lr:0.0001
+********************
+Epoch 21: val CE Loss:0.6972; KLD Loss:0; Accuracy:3129/4676=0.6692; Average Acc:0.7398; Kappa:0.8532; MSE:0.4078
+[[0.23759624 0.14178785 0.0132592  0.         0.        ]
+ [0.02566296 0.12467921 0.04191617 0.00363559 0.        ]
+ [0.00684346 0.04213003 0.16274594 0.04041916 0.        ]
+ [0.         0.00192472 0.00748503 0.10799829 0.00213858]
+ [0.         0.         0.         0.00363559 0.036142  ]]
+********************
+Epoch 22: train CE Loss:0.1613; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.3667; Kappa:0.9412; MSE:0.25; lr:0.0001
+Epoch 22: train CE Loss:0.4631; KLD Loss:0; Accuracy:1266/1608=0.7873; Average Acc:0.822; Kappa:0.9092; MSE:0.2649; lr:0.0001
+Epoch 22: train CE Loss:0.4537; KLD Loss:0; Accuracy:2535/3208=0.7902; Average Acc:0.8219; Kappa:0.909; MSE:0.265; lr:0.0001
+Epoch 22: train CE Loss:0.4555; KLD Loss:0; Accuracy:3778/4808=0.7858; Average Acc:0.8188; Kappa:0.9063; MSE:0.2733; lr:0.0001
+Epoch 22: train CE Loss:0.4569; KLD Loss:0; Accuracy:5032/6408=0.7853; Average Acc:0.8185; Kappa:0.9085; MSE:0.2679; lr:0.0001
+Epoch 22: train CE Loss:0.4612; KLD Loss:0; Accuracy:6283/8008=0.7846; Average Acc:0.8168; Kappa:0.9089; MSE:0.2681; lr:0.0001
+Epoch 22: train CE Loss:0.4682; KLD Loss:0; Accuracy:7531/9608=0.7838; Average Acc:0.8164; Kappa:0.9081; MSE:0.2704; lr:0.0001
+Epoch 22: train CE Loss:0.47; KLD Loss:0; Accuracy:8753/11208=0.781; Average Acc:0.8142; Kappa:0.9073; MSE:0.2748; lr:0.0001
+Epoch 22: train CE Loss:0.4722; KLD Loss:0; Accuracy:9988/12808=0.7798; Average Acc:0.8138; Kappa:0.9064; MSE:0.2758; lr:0.0001
+Epoch 22: train CE Loss:0.4721; KLD Loss:0; Accuracy:11267/14408=0.782; Average Acc:0.8157; Kappa:0.9078; MSE:0.2717; lr:0.0001
+Epoch 22: train CE Loss:0.4729; KLD Loss:0; Accuracy:12532/16008=0.7829; Average Acc:0.8168; Kappa:0.9081; MSE:0.2702; lr:0.0001
+Epoch 22: train CE Loss:0.4709; KLD Loss:0; Accuracy:13804/17608=0.784; Average Acc:0.8181; Kappa:0.9089; MSE:0.267; lr:0.0001
+Epoch 22: train CE Loss:0.4732; KLD Loss:0; Accuracy:15023/19208=0.7821; Average Acc:0.8176; Kappa:0.9079; MSE:0.2679; lr:0.0001
+Epoch 22: train CE Loss:0.472; KLD Loss:0; Accuracy:16298/20808=0.7833; Average Acc:0.8184; Kappa:0.9074; MSE:0.2695; lr:0.0001
+Epoch 22: train CE Loss:0.4733; KLD Loss:0; Accuracy:17555/22408=0.7834; Average Acc:0.8183; Kappa:0.9071; MSE:0.2702; lr:0.0001
+Epoch 22: train CE Loss:0.474; KLD Loss:0; Accuracy:18808/24008=0.7834; Average Acc:0.8182; Kappa:0.907; MSE:0.2699; lr:0.0001
+Epoch 22: train CE Loss:0.4758; KLD Loss:0; Accuracy:20039/25608=0.7825; Average Acc:0.8175; Kappa:0.9063; MSE:0.2716; lr:0.0001
+Epoch 22: train CE Loss:0.4762; KLD Loss:0; Accuracy:21282/27208=0.7822; Average Acc:0.8174; Kappa:0.9061; MSE:0.2722; lr:0.0001
+Epoch 22: train CE Loss:0.4778; KLD Loss:0; Accuracy:22514/28808=0.7815; Average Acc:0.8166; Kappa:0.9057; MSE:0.2729; lr:0.0001
+Epoch 22: train CE Loss:0.478; KLD Loss:0; Accuracy:23742/30408=0.7808; Average Acc:0.8165; Kappa:0.9052; MSE:0.2738; lr:0.0001
+Epoch 22: train CE Loss:0.4784; KLD Loss:0; Accuracy:25003/32008=0.7811; Average Acc:0.8167; Kappa:0.9049; MSE:0.2743; lr:0.0001
+Epoch 22: train CE Loss:0.479; KLD Loss:0; Accuracy:25635/32816=0.7812; Average Acc:0.8164; Kappa:0.9051; MSE:0.274; lr:0.0001
+********************
+Epoch 22: val CE Loss:0.7499; KLD Loss:0; Accuracy:3209/4676=0.6863; Average Acc:0.7312; Kappa:0.8609; MSE:0.4219
+[[0.31693755 0.06757913 0.0081266  0.         0.        ]
+ [0.06864842 0.09794696 0.02609068 0.00320787 0.        ]
+ [0.01860565 0.0534645  0.13216424 0.0453379  0.0025663 ]
+ [0.00021386 0.00299401 0.00513259 0.09987169 0.01133447]
+ [0.         0.         0.         0.00042772 0.03934987]]
+********************
+Epoch 23: train CE Loss:0.4517; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.7917; Kappa:0.8873; MSE:0.25; lr:0.0001
+Epoch 23: train CE Loss:0.5109; KLD Loss:0; Accuracy:1226/1608=0.7624; Average Acc:0.8051; Kappa:0.8976; MSE:0.301; lr:0.0001
+Epoch 23: train CE Loss:0.484; KLD Loss:0; Accuracy:2499/3208=0.779; Average Acc:0.8155; Kappa:0.9065; MSE:0.2693; lr:0.0001
+Epoch 23: train CE Loss:0.4712; KLD Loss:0; Accuracy:3763/4808=0.7827; Average Acc:0.8189; Kappa:0.9075; MSE:0.2652; lr:0.0001
+Epoch 23: train CE Loss:0.4692; KLD Loss:0; Accuracy:5033/6408=0.7854; Average Acc:0.8222; Kappa:0.9075; MSE:0.2644; lr:0.0001
+Epoch 23: train CE Loss:0.4692; KLD Loss:0; Accuracy:6286/8008=0.785; Average Acc:0.8223; Kappa:0.9074; MSE:0.2646; lr:0.0001
+Epoch 23: train CE Loss:0.4704; KLD Loss:0; Accuracy:7511/9608=0.7817; Average Acc:0.821; Kappa:0.9065; MSE:0.267; lr:0.0001
+Epoch 23: train CE Loss:0.4763; KLD Loss:0; Accuracy:8727/11208=0.7786; Average Acc:0.8185; Kappa:0.9059; MSE:0.2693; lr:0.0001
+Epoch 23: train CE Loss:0.4715; KLD Loss:0; Accuracy:10014/12808=0.7819; Average Acc:0.821; Kappa:0.9072; MSE:0.2671; lr:0.0001
+Epoch 23: train CE Loss:0.4732; KLD Loss:0; Accuracy:11266/14408=0.7819; Average Acc:0.8207; Kappa:0.9062; MSE:0.2703; lr:0.0001
+Epoch 23: train CE Loss:0.4713; KLD Loss:0; Accuracy:12547/16008=0.7838; Average Acc:0.8224; Kappa:0.9071; MSE:0.2679; lr:0.0001
+Epoch 23: train CE Loss:0.4736; KLD Loss:0; Accuracy:13788/17608=0.7831; Average Acc:0.8208; Kappa:0.9065; MSE:0.271; lr:0.0001
+Epoch 23: train CE Loss:0.4716; KLD Loss:0; Accuracy:15047/19208=0.7834; Average Acc:0.8207; Kappa:0.9072; MSE:0.2696; lr:0.0001
+Epoch 23: train CE Loss:0.4712; KLD Loss:0; Accuracy:16312/20808=0.7839; Average Acc:0.8211; Kappa:0.9073; MSE:0.2687; lr:0.0001
+Epoch 23: train CE Loss:0.4706; KLD Loss:0; Accuracy:17586/22408=0.7848; Average Acc:0.821; Kappa:0.9074; MSE:0.2685; lr:0.0001
+Epoch 23: train CE Loss:0.4716; KLD Loss:0; Accuracy:18824/24008=0.7841; Average Acc:0.8206; Kappa:0.9068; MSE:0.2697; lr:0.0001
+Epoch 23: train CE Loss:0.4731; KLD Loss:0; Accuracy:20051/25608=0.783; Average Acc:0.8195; Kappa:0.9063; MSE:0.2709; lr:0.0001
+Epoch 23: train CE Loss:0.4754; KLD Loss:0; Accuracy:21271/27208=0.7818; Average Acc:0.8184; Kappa:0.9057; MSE:0.273; lr:0.0001
+Epoch 23: train CE Loss:0.4744; KLD Loss:0; Accuracy:22544/28808=0.7826; Average Acc:0.8191; Kappa:0.906; MSE:0.2721; lr:0.0001
+Epoch 23: train CE Loss:0.4754; KLD Loss:0; Accuracy:23794/30408=0.7825; Average Acc:0.8185; Kappa:0.9057; MSE:0.2733; lr:0.0001
+Epoch 23: train CE Loss:0.476; KLD Loss:0; Accuracy:25023/32008=0.7818; Average Acc:0.8181; Kappa:0.9055; MSE:0.2737; lr:0.0001
+Epoch 23: train CE Loss:0.4765; KLD Loss:0; Accuracy:25646/32816=0.7815; Average Acc:0.8178; Kappa:0.9055; MSE:0.2736; lr:0.0001
+********************
+Epoch 23: val CE Loss:0.6424; KLD Loss:0; Accuracy:3287/4676=0.703; Average Acc:0.7481; Kappa:0.8606; MSE:0.3946
+[[0.27887083 0.09730539 0.01646707 0.         0.        ]
+ [0.04298546 0.11227545 0.03806672 0.0025663  0.        ]
+ [0.01133447 0.0387083  0.18199316 0.01988879 0.00021386]
+ [0.         0.00192472 0.01753636 0.09110351 0.00898204]
+ [0.         0.         0.         0.00106929 0.0387083 ]]
+********************
+Epoch 24: train CE Loss:0.4486; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.8889; Kappa:0.8889; MSE:0.125; lr:0.0001
+Epoch 24: train CE Loss:0.4273; KLD Loss:0; Accuracy:1306/1608=0.8122; Average Acc:0.8385; Kappa:0.9223; MSE:0.2289; lr:0.0001
+Epoch 24: train CE Loss:0.4393; KLD Loss:0; Accuracy:2572/3208=0.8017; Average Acc:0.8339; Kappa:0.9138; MSE:0.2488; lr:0.0001
+Epoch 24: train CE Loss:0.4401; KLD Loss:0; Accuracy:3836/4808=0.7978; Average Acc:0.8279; Kappa:0.9129; MSE:0.2569; lr:0.0001
+Epoch 24: train CE Loss:0.4539; KLD Loss:0; Accuracy:5076/6408=0.7921; Average Acc:0.8248; Kappa:0.91; MSE:0.2633; lr:0.0001
+Epoch 24: train CE Loss:0.4559; KLD Loss:0; Accuracy:6336/8008=0.7912; Average Acc:0.824; Kappa:0.9098; MSE:0.2632; lr:0.0001
+Epoch 24: train CE Loss:0.4566; KLD Loss:0; Accuracy:7604/9608=0.7914; Average Acc:0.824; Kappa:0.9101; MSE:0.2624; lr:0.0001
+Epoch 24: train CE Loss:0.4557; KLD Loss:0; Accuracy:8888/11208=0.793; Average Acc:0.8264; Kappa:0.9113; MSE:0.2595; lr:0.0001
+Epoch 24: train CE Loss:0.4621; KLD Loss:0; Accuracy:10106/12808=0.789; Average Acc:0.8218; Kappa:0.909; MSE:0.2665; lr:0.0001
+Epoch 24: train CE Loss:0.4675; KLD Loss:0; Accuracy:11347/14408=0.7875; Average Acc:0.8202; Kappa:0.9084; MSE:0.267; lr:0.0001
+Epoch 24: train CE Loss:0.4638; KLD Loss:0; Accuracy:12636/16008=0.7894; Average Acc:0.8219; Kappa:0.9097; MSE:0.2624; lr:0.0001
+Epoch 24: train CE Loss:0.4637; KLD Loss:0; Accuracy:13878/17608=0.7882; Average Acc:0.8221; Kappa:0.9094; MSE:0.2624; lr:0.0001
+Epoch 24: train CE Loss:0.4608; KLD Loss:0; Accuracy:15165/19208=0.7895; Average Acc:0.8228; Kappa:0.9096; MSE:0.2617; lr:0.0001
+Epoch 24: train CE Loss:0.4646; KLD Loss:0; Accuracy:16396/20808=0.788; Average Acc:0.821; Kappa:0.9085; MSE:0.2647; lr:0.0001
+Epoch 24: train CE Loss:0.4629; KLD Loss:0; Accuracy:17649/22408=0.7876; Average Acc:0.8212; Kappa:0.9085; MSE:0.2648; lr:0.0001
+Epoch 24: train CE Loss:0.4636; KLD Loss:0; Accuracy:18877/24008=0.7863; Average Acc:0.8207; Kappa:0.9081; MSE:0.2656; lr:0.0001
+Epoch 24: train CE Loss:0.4639; KLD Loss:0; Accuracy:20124/25608=0.7858; Average Acc:0.8202; Kappa:0.9079; MSE:0.2662; lr:0.0001
+Epoch 24: train CE Loss:0.4652; KLD Loss:0; Accuracy:21355/27208=0.7849; Average Acc:0.8197; Kappa:0.9074; MSE:0.2677; lr:0.0001
+Epoch 24: train CE Loss:0.4651; KLD Loss:0; Accuracy:22607/28808=0.7847; Average Acc:0.8197; Kappa:0.9076; MSE:0.2675; lr:0.0001
+Epoch 24: train CE Loss:0.4654; KLD Loss:0; Accuracy:23862/30408=0.7847; Average Acc:0.8199; Kappa:0.9074; MSE:0.2684; lr:0.0001
+Epoch 24: train CE Loss:0.4644; KLD Loss:0; Accuracy:25137/32008=0.7853; Average Acc:0.8206; Kappa:0.9079; MSE:0.2671; lr:0.0001
+Epoch 24: train CE Loss:0.4642; KLD Loss:0; Accuracy:25776/32816=0.7855; Average Acc:0.8208; Kappa:0.9079; MSE:0.2665; lr:0.0001
+********************
+Epoch 24: val CE Loss:0.7273; KLD Loss:0; Accuracy:3272/4676=0.6997; Average Acc:0.7318; Kappa:0.8519; MSE:0.4361
+[[0.30838323 0.05859709 0.0254491  0.00021386 0.        ]
+ [0.06073567 0.0789136  0.05196749 0.00427716 0.        ]
+ [0.01368691 0.0295124  0.1710864  0.03763901 0.00021386]
+ [0.         0.00106929 0.01154833 0.10500428 0.00192472]
+ [0.         0.         0.         0.00342173 0.03635586]]
+********************
+Epoch 25: train CE Loss:0.08715; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.75; Kappa:0.9737; MSE:0.125; lr:0.0001
+Epoch 25: train CE Loss:0.4319; KLD Loss:0; Accuracy:1283/1608=0.7979; Average Acc:0.8264; Kappa:0.9187; MSE:0.2394; lr:0.0001
+Epoch 25: train CE Loss:0.4332; KLD Loss:0; Accuracy:2539/3208=0.7915; Average Acc:0.8251; Kappa:0.9091; MSE:0.2625; lr:0.0001
+Epoch 25: train CE Loss:0.4399; KLD Loss:0; Accuracy:3795/4808=0.7893; Average Acc:0.8244; Kappa:0.9091; MSE:0.2633; lr:0.0001
+Epoch 25: train CE Loss:0.4452; KLD Loss:0; Accuracy:5057/6408=0.7892; Average Acc:0.8239; Kappa:0.9073; MSE:0.2681; lr:0.0001
+Epoch 25: train CE Loss:0.4484; KLD Loss:0; Accuracy:6324/8008=0.7897; Average Acc:0.8234; Kappa:0.9076; MSE:0.27; lr:0.0001
+Epoch 25: train CE Loss:0.4448; KLD Loss:0; Accuracy:7627/9608=0.7938; Average Acc:0.8269; Kappa:0.91; MSE:0.2631; lr:0.0001
+Epoch 25: train CE Loss:0.4529; KLD Loss:0; Accuracy:8901/11208=0.7942; Average Acc:0.8266; Kappa:0.9089; MSE:0.2653; lr:0.0001
+Epoch 25: train CE Loss:0.4545; KLD Loss:0; Accuracy:10157/12808=0.793; Average Acc:0.826; Kappa:0.9089; MSE:0.2649; lr:0.0001
+Epoch 25: train CE Loss:0.4568; KLD Loss:0; Accuracy:11408/14408=0.7918; Average Acc:0.8248; Kappa:0.9082; MSE:0.2662; lr:0.0001
+Epoch 25: train CE Loss:0.4553; KLD Loss:0; Accuracy:12675/16008=0.7918; Average Acc:0.8237; Kappa:0.9092; MSE:0.2647; lr:0.0001
+Epoch 25: train CE Loss:0.4566; KLD Loss:0; Accuracy:13937/17608=0.7915; Average Acc:0.8226; Kappa:0.9094; MSE:0.2635; lr:0.0001
+Epoch 25: train CE Loss:0.4568; KLD Loss:0; Accuracy:15204/19208=0.7915; Average Acc:0.8236; Kappa:0.9098; MSE:0.262; lr:0.0001
+Epoch 25: train CE Loss:0.4579; KLD Loss:0; Accuracy:16456/20808=0.7908; Average Acc:0.8237; Kappa:0.9098; MSE:0.2608; lr:0.0001
+Epoch 25: train CE Loss:0.4593; KLD Loss:0; Accuracy:17699/22408=0.7899; Average Acc:0.8227; Kappa:0.9095; MSE:0.262; lr:0.0001
+Epoch 25: train CE Loss:0.4592; KLD Loss:0; Accuracy:18974/24008=0.7903; Average Acc:0.8237; Kappa:0.9098; MSE:0.2607; lr:0.0001
+Epoch 25: train CE Loss:0.4572; KLD Loss:0; Accuracy:20279/25608=0.7919; Average Acc:0.8248; Kappa:0.9105; MSE:0.2588; lr:0.0001
+Epoch 25: train CE Loss:0.4581; KLD Loss:0; Accuracy:21544/27208=0.7918; Average Acc:0.8244; Kappa:0.9107; MSE:0.2583; lr:0.0001
+Epoch 25: train CE Loss:0.4575; KLD Loss:0; Accuracy:22818/28808=0.7921; Average Acc:0.8249; Kappa:0.9104; MSE:0.2589; lr:0.0001
+Epoch 25: train CE Loss:0.4589; KLD Loss:0; Accuracy:24056/30408=0.7911; Average Acc:0.824; Kappa:0.9097; MSE:0.2606; lr:0.0001
+Epoch 25: train CE Loss:0.4593; KLD Loss:0; Accuracy:25314/32008=0.7909; Average Acc:0.8239; Kappa:0.9097; MSE:0.2605; lr:0.0001
+Epoch 25: train CE Loss:0.46; KLD Loss:0; Accuracy:25936/32816=0.7903; Average Acc:0.8234; Kappa:0.9094; MSE:0.2613; lr:0.0001
+********************
+Epoch 25: val CE Loss:0.6886; KLD Loss:0; Accuracy:3219/4676=0.6884; Average Acc:0.7409; Kappa:0.8615; MSE:0.4021
+[[0.28507271 0.09409752 0.01347305 0.         0.        ]
+ [0.04448246 0.106929   0.04148845 0.00299401 0.        ]
+ [0.01047904 0.04619333 0.15825492 0.03721129 0.        ]
+ [0.         0.00299401 0.00791275 0.09944397 0.00919589]
+ [0.         0.         0.00021386 0.00085543 0.0387083 ]]
+********************
+Epoch 26: train CE Loss:0.6742; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.6667; Kappa:0.7576; MSE:0.25; lr:0.0001
+Epoch 26: train CE Loss:0.4695; KLD Loss:0; Accuracy:1259/1608=0.783; Average Acc:0.8236; Kappa:0.9036; MSE:0.2618; lr:0.0001
+Epoch 26: train CE Loss:0.4533; KLD Loss:0; Accuracy:2528/3208=0.788; Average Acc:0.8275; Kappa:0.9075; MSE:0.2584; lr:0.0001
+Epoch 26: train CE Loss:0.4508; KLD Loss:0; Accuracy:3796/4808=0.7895; Average Acc:0.8296; Kappa:0.9079; MSE:0.2612; lr:0.0001
+Epoch 26: train CE Loss:0.4504; KLD Loss:0; Accuracy:5058/6408=0.7893; Average Acc:0.8259; Kappa:0.9084; MSE:0.2628; lr:0.0001
+Epoch 26: train CE Loss:0.4468; KLD Loss:0; Accuracy:6336/8008=0.7912; Average Acc:0.8276; Kappa:0.9094; MSE:0.2606; lr:0.0001
+Epoch 26: train CE Loss:0.4476; KLD Loss:0; Accuracy:7594/9608=0.7904; Average Acc:0.8269; Kappa:0.9096; MSE:0.2609; lr:0.0001
+Epoch 26: train CE Loss:0.4493; KLD Loss:0; Accuracy:8831/11208=0.7879; Average Acc:0.8241; Kappa:0.909; MSE:0.2636; lr:0.0001
+Epoch 26: train CE Loss:0.4501; KLD Loss:0; Accuracy:10096/12808=0.7883; Average Acc:0.8249; Kappa:0.9093; MSE:0.2626; lr:0.0001
+Epoch 26: train CE Loss:0.451; KLD Loss:0; Accuracy:11383/14408=0.79; Average Acc:0.8264; Kappa:0.9096; MSE:0.2607; lr:0.0001
+Epoch 26: train CE Loss:0.4514; KLD Loss:0; Accuracy:12671/16008=0.7915; Average Acc:0.8275; Kappa:0.9094; MSE:0.2616; lr:0.0001
+Epoch 26: train CE Loss:0.4524; KLD Loss:0; Accuracy:13925/17608=0.7908; Average Acc:0.8273; Kappa:0.9087; MSE:0.2631; lr:0.0001
+Epoch 26: train CE Loss:0.4573; KLD Loss:0; Accuracy:15164/19208=0.7895; Average Acc:0.8258; Kappa:0.9082; MSE:0.2642; lr:0.0001
+Epoch 26: train CE Loss:0.4565; KLD Loss:0; Accuracy:16436/20808=0.7899; Average Acc:0.826; Kappa:0.908; MSE:0.2647; lr:0.0001
+Epoch 26: train CE Loss:0.4524; KLD Loss:0; Accuracy:17729/22408=0.7912; Average Acc:0.8269; Kappa:0.909; MSE:0.2628; lr:0.0001
+Epoch 26: train CE Loss:0.4525; KLD Loss:0; Accuracy:19000/24008=0.7914; Average Acc:0.8264; Kappa:0.9093; MSE:0.2622; lr:0.0001
+Epoch 26: train CE Loss:0.4525; KLD Loss:0; Accuracy:20298/25608=0.7926; Average Acc:0.8278; Kappa:0.9095; MSE:0.2615; lr:0.0001
+Epoch 26: train CE Loss:0.4506; KLD Loss:0; Accuracy:21583/27208=0.7933; Average Acc:0.8283; Kappa:0.9101; MSE:0.2605; lr:0.0001
+Epoch 26: train CE Loss:0.4501; KLD Loss:0; Accuracy:22878/28808=0.7942; Average Acc:0.8289; Kappa:0.9105; MSE:0.259; lr:0.0001
+Epoch 26: train CE Loss:0.4498; KLD Loss:0; Accuracy:24171/30408=0.7949; Average Acc:0.8292; Kappa:0.9107; MSE:0.2583; lr:0.0001
+Epoch 26: train CE Loss:0.4498; KLD Loss:0; Accuracy:25423/32008=0.7943; Average Acc:0.8287; Kappa:0.9106; MSE:0.2591; lr:0.0001
+Epoch 26: train CE Loss:0.4497; KLD Loss:0; Accuracy:26066/32816=0.7943; Average Acc:0.8289; Kappa:0.9105; MSE:0.2589; lr:0.0001
+********************
+Epoch 26: val CE Loss:0.7057; KLD Loss:0; Accuracy:3324/4676=0.7109; Average Acc:0.7385; Kappa:0.8644; MSE:0.386
+[[0.30175364 0.07698888 0.01390077 0.         0.        ]
+ [0.05538922 0.09987169 0.03828058 0.00235244 0.        ]
+ [0.01454234 0.04234388 0.17130026 0.0239521  0.        ]
+ [0.         0.00128315 0.01347305 0.10329341 0.00149701]
+ [0.         0.         0.00021386 0.00491873 0.034645  ]]
+********************
+Epoch 27: train CE Loss:0.7122; KLD Loss:0; Accuracy:4/8=0.5; Average Acc:0.3611; Kappa:0.3333; MSE: 0.5; lr:0.0001
+Epoch 27: train CE Loss:0.4562; KLD Loss:0; Accuracy:1283/1608=0.7979; Average Acc:0.8294; Kappa:0.9141; MSE:0.2469; lr:0.0001
+Epoch 27: train CE Loss:0.4495; KLD Loss:0; Accuracy:2556/3208=0.7968; Average Acc:0.8208; Kappa:0.916; MSE:0.2509; lr:0.0001
+Epoch 27: train CE Loss:0.4542; KLD Loss:0; Accuracy:3801/4808=0.7906; Average Acc:0.8207; Kappa:0.9118; MSE:0.2612; lr:0.0001
+Epoch 27: train CE Loss:0.4486; KLD Loss:0; Accuracy:5085/6408=0.7935; Average Acc:0.826; Kappa:0.9126; MSE:0.2547; lr:0.0001
+Epoch 27: train CE Loss:0.4417; KLD Loss:0; Accuracy:6391/8008=0.7981; Average Acc:0.8294; Kappa:0.9135; MSE:0.2516; lr:0.0001
+Epoch 27: train CE Loss:0.4461; KLD Loss:0; Accuracy:7662/9608=0.7975; Average Acc:0.8292; Kappa:0.9129; MSE:0.2529; lr:0.0001
+Epoch 27: train CE Loss:0.4476; KLD Loss:0; Accuracy:8935/11208=0.7972; Average Acc:0.8289; Kappa:0.912; MSE:0.2558; lr:0.0001
+Epoch 27: train CE Loss:0.443; KLD Loss:0; Accuracy:10245/12808=0.7999; Average Acc:0.8316; Kappa:0.9125; MSE:0.2547; lr:0.0001
+Epoch 27: train CE Loss:0.4422; KLD Loss:0; Accuracy:11533/14408=0.8005; Average Acc:0.8309; Kappa:0.9134; MSE:0.253; lr:0.0001
+Epoch 27: train CE Loss:0.4413; KLD Loss:0; Accuracy:12821/16008=0.8009; Average Acc:0.8317; Kappa:0.913; MSE:0.2537; lr:0.0001
+Epoch 27: train CE Loss:0.4397; KLD Loss:0; Accuracy:14117/17608=0.8017; Average Acc:0.8327; Kappa:0.9135; MSE:0.2523; lr:0.0001
+Epoch 27: train CE Loss:0.4424; KLD Loss:0; Accuracy:15351/19208=0.7992; Average Acc:0.8317; Kappa:0.9125; MSE:0.2544; lr:0.0001
+Epoch 27: train CE Loss:0.4403; KLD Loss:0; Accuracy:16647/20808=0.8; Average Acc:0.8329; Kappa:0.9128; MSE:0.2532; lr:0.0001
+Epoch 27: train CE Loss:0.4393; KLD Loss:0; Accuracy:17916/22408=0.7995; Average Acc:0.8327; Kappa:0.9132; MSE:0.2525; lr:0.0001
+Epoch 27: train CE Loss:0.4424; KLD Loss:0; Accuracy:19158/24008=0.798; Average Acc:0.8314; Kappa:0.912; MSE:0.2557; lr:0.0001
+Epoch 27: train CE Loss:0.4424; KLD Loss:0; Accuracy:20421/25608=0.7974; Average Acc:0.8313; Kappa:0.9121; MSE:0.2555; lr:0.0001
+Epoch 27: train CE Loss:0.4441; KLD Loss:0; Accuracy:21684/27208=0.797; Average Acc:0.8307; Kappa:0.912; MSE:0.2555; lr:0.0001
+Epoch 27: train CE Loss:0.4448; KLD Loss:0; Accuracy:22954/28808=0.7968; Average Acc:0.8306; Kappa:0.9118; MSE:0.2558; lr:0.0001
+Epoch 27: train CE Loss:0.4461; KLD Loss:0; Accuracy:24220/30408=0.7965; Average Acc:0.8302; Kappa:0.9113; MSE:0.2571; lr:0.0001
+Epoch 27: train CE Loss:0.4473; KLD Loss:0; Accuracy:25497/32008=0.7966; Average Acc:0.8301; Kappa:0.9114; MSE:0.2565; lr:0.0001
+Epoch 27: train CE Loss:0.4468; KLD Loss:0; Accuracy:26133/32816=0.7963; Average Acc:0.8302; Kappa:0.9112; MSE:0.2566; lr:0.0001
+********************
+Epoch 27: val CE Loss:0.7259; KLD Loss:0; Accuracy:3294/4676=0.7044; Average Acc:0.7347; Kappa:0.8628; MSE:0.4027
+[[0.31565441 0.06544055 0.01154833 0.         0.        ]
+ [0.06757913 0.08426005 0.03999145 0.0040633  0.        ]
+ [0.01710864 0.03806672 0.16809239 0.02865697 0.00021386]
+ [0.         0.00278015 0.01304534 0.0988024  0.00491873]
+ [0.         0.         0.         0.00213858 0.03763901]]
+********************
+Epoch 28: train CE Loss:0.2666; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.9375; Kappa:0.9474; MSE:0.125; lr:0.0001
+Epoch 28: train CE Loss:0.4522; KLD Loss:0; Accuracy:1287/1608=0.8004; Average Acc:0.8322; Kappa:0.9094; MSE:0.2531; lr:0.0001
+Epoch 28: train CE Loss:0.433; KLD Loss:0; Accuracy:2580/3208=0.8042; Average Acc:0.8376; Kappa:0.916; MSE:0.2375; lr:0.0001
+Epoch 28: train CE Loss:0.436; KLD Loss:0; Accuracy:3841/4808=0.7989; Average Acc:0.8364; Kappa:0.9117; MSE:0.2515; lr:0.0001
+Epoch 28: train CE Loss:0.4258; KLD Loss:0; Accuracy:5159/6408=0.8051; Average Acc:0.8419; Kappa:0.9149; MSE:0.2442; lr:0.0001
+Epoch 28: train CE Loss:0.426; KLD Loss:0; Accuracy:6446/8008=0.8049; Average Acc:0.8408; Kappa:0.9145; MSE:0.2465; lr:0.0001
+Epoch 28: train CE Loss:0.4306; KLD Loss:0; Accuracy:7727/9608=0.8042; Average Acc:0.839; Kappa:0.9149; MSE:0.2449; lr:0.0001
+Epoch 28: train CE Loss:0.4307; KLD Loss:0; Accuracy:8999/11208=0.8029; Average Acc:0.8378; Kappa:0.9139; MSE:0.2467; lr:0.0001
+Epoch 28: train CE Loss:0.4316; KLD Loss:0; Accuracy:10274/12808=0.8022; Average Acc:0.8378; Kappa:0.914; MSE:0.2475; lr:0.0001
+Epoch 28: train CE Loss:0.4313; KLD Loss:0; Accuracy:11576/14408=0.8034; Average Acc:0.8377; Kappa:0.9141; MSE:0.2471; lr:0.0001
+Epoch 28: train CE Loss:0.4327; KLD Loss:0; Accuracy:12870/16008=0.804; Average Acc:0.8378; Kappa:0.9149; MSE:0.2456; lr:0.0001
+Epoch 28: train CE Loss:0.4315; KLD Loss:0; Accuracy:14145/17608=0.8033; Average Acc:0.8369; Kappa:0.915; MSE:0.2461; lr:0.0001
+Epoch 28: train CE Loss:0.4308; KLD Loss:0; Accuracy:15453/19208=0.8045; Average Acc:0.8375; Kappa:0.9156; MSE:0.2442; lr:0.0001
+Epoch 28: train CE Loss:0.43; KLD Loss:0; Accuracy:16742/20808=0.8046; Average Acc:0.8372; Kappa:0.9157; MSE:0.2441; lr:0.0001
+Epoch 28: train CE Loss:0.4316; KLD Loss:0; Accuracy:18024/22408=0.8044; Average Acc:0.8374; Kappa:0.9151; MSE:0.2458; lr:0.0001
+Epoch 28: train CE Loss:0.4284; KLD Loss:0; Accuracy:19324/24008=0.8049; Average Acc:0.8385; Kappa:0.9157; MSE:0.2443; lr:0.0001
+Epoch 28: train CE Loss:0.4293; KLD Loss:0; Accuracy:20615/25608=0.805; Average Acc:0.838; Kappa:0.9157; MSE:0.2443; lr:0.0001
+Epoch 28: train CE Loss:0.4318; KLD Loss:0; Accuracy:21872/27208=0.8039; Average Acc:0.8378; Kappa:0.9149; MSE:0.2457; lr:0.0001
+Epoch 28: train CE Loss:0.4331; KLD Loss:0; Accuracy:23144/28808=0.8034; Average Acc:0.8374; Kappa:0.9147; MSE:0.2461; lr:0.0001
+Epoch 28: train CE Loss:0.4324; KLD Loss:0; Accuracy:24448/30408=0.804; Average Acc:0.8376; Kappa:0.9148; MSE:0.2462; lr:0.0001
+Epoch 28: train CE Loss:0.4344; KLD Loss:0; Accuracy:25706/32008=0.8031; Average Acc:0.8368; Kappa:0.9143; MSE:0.2477; lr:0.0001
+Epoch 28: train CE Loss:0.4341; KLD Loss:0; Accuracy:26356/32816=0.8031; Average Acc:0.8368; Kappa:0.9141; MSE:0.2481; lr:0.0001
+********************
+Epoch 28: val CE Loss:0.7228; KLD Loss:0; Accuracy:3293/4676=0.7042; Average Acc:0.7264; Kappa:0.8523; MSE:0.4149
+[[0.29811805 0.07442258 0.02010265 0.         0.        ]
+ [0.05196749 0.09345595 0.0494012  0.00106929 0.        ]
+ [0.01432849 0.03421728 0.18691189 0.01625321 0.00042772]
+ [0.00021386 0.00320787 0.02373824 0.08982036 0.0025663 ]
+ [0.         0.         0.         0.00384944 0.03592814]]
+********************
+Epoch 29: train CE Loss:0.5597; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.6875; Kappa:0.9158; MSE:0.25; lr:0.0001
+Epoch 29: train CE Loss:0.3904; KLD Loss:0; Accuracy:1321/1608=0.8215; Average Acc:0.8543; Kappa:0.9217; MSE:0.2177; lr:0.0001
+Epoch 29: train CE Loss:0.3997; KLD Loss:0; Accuracy:2612/3208=0.8142; Average Acc:0.8527; Kappa:0.9211; MSE:0.2176; lr:0.0001
+Epoch 29: train CE Loss:0.4068; KLD Loss:0; Accuracy:3905/4808=0.8122; Average Acc:0.846; Kappa:0.9205; MSE:0.2215; lr:0.0001
+Epoch 29: train CE Loss:0.41; KLD Loss:0; Accuracy:5197/6408=0.811; Average Acc:0.8443; Kappa:0.9186; MSE:0.2274; lr:0.0001
+Epoch 29: train CE Loss:0.4169; KLD Loss:0; Accuracy:6471/8008=0.8081; Average Acc:0.8422; Kappa:0.9157; MSE:0.237; lr:0.0001
+Epoch 29: train CE Loss:0.4133; KLD Loss:0; Accuracy:7777/9608=0.8094; Average Acc:0.8429; Kappa:0.9181; MSE:0.2322; lr:0.0001
+Epoch 29: train CE Loss:0.4136; KLD Loss:0; Accuracy:9073/11208=0.8095; Average Acc:0.844; Kappa:0.9176; MSE:0.2347; lr:0.0001
+Epoch 29: train CE Loss:0.4143; KLD Loss:0; Accuracy:10373/12808=0.8099; Average Acc:0.845; Kappa:0.9176; MSE:0.235; lr:0.0001
+Epoch 29: train CE Loss:0.4128; KLD Loss:0; Accuracy:11686/14408=0.8111; Average Acc:0.846; Kappa:0.919; MSE:0.232; lr:0.0001
+Epoch 29: train CE Loss:0.4194; KLD Loss:0; Accuracy:12928/16008=0.8076; Average Acc:0.8425; Kappa:0.9167; MSE:0.2382; lr:0.0001
+Epoch 29: train CE Loss:0.4199; KLD Loss:0; Accuracy:14224/17608=0.8078; Average Acc:0.8423; Kappa:0.917; MSE:0.2376; lr:0.0001
+Epoch 29: train CE Loss:0.4205; KLD Loss:0; Accuracy:15514/19208=0.8077; Average Acc:0.8419; Kappa:0.9166; MSE:0.2396; lr:0.0001
+Epoch 29: train CE Loss:0.4232; KLD Loss:0; Accuracy:16783/20808=0.8066; Average Acc:0.8409; Kappa:0.9162; MSE:0.2407; lr:0.0001
+Epoch 29: train CE Loss:0.4238; KLD Loss:0; Accuracy:18049/22408=0.8055; Average Acc:0.84; Kappa:0.9156; MSE:0.2423; lr:0.0001
+Epoch 29: train CE Loss:0.4242; KLD Loss:0; Accuracy:19339/24008=0.8055; Average Acc:0.84; Kappa:0.9157; MSE:0.2421; lr:0.0001
+Epoch 29: train CE Loss:0.4245; KLD Loss:0; Accuracy:20618/25608=0.8051; Average Acc:0.839; Kappa:0.9158; MSE:0.2428; lr:0.0001
+Epoch 29: train CE Loss:0.4258; KLD Loss:0; Accuracy:21906/27208=0.8051; Average Acc:0.8389; Kappa:0.9157; MSE:0.2431; lr:0.0001
+Epoch 29: train CE Loss:0.425; KLD Loss:0; Accuracy:23203/28808=0.8054; Average Acc:0.839; Kappa:0.9159; MSE:0.2428; lr:0.0001
+Epoch 29: train CE Loss:0.4266; KLD Loss:0; Accuracy:24465/30408=0.8046; Average Acc:0.8385; Kappa:0.9153; MSE:0.2441; lr:0.0001
+Epoch 29: train CE Loss:0.4259; KLD Loss:0; Accuracy:25769/32008=0.8051; Average Acc:0.8383; Kappa:0.9157; MSE:0.2438; lr:0.0001
+Epoch 29: train CE Loss:0.4258; KLD Loss:0; Accuracy:26426/32816=0.8053; Average Acc:0.8386; Kappa:0.9158; MSE:0.2433; lr:0.0001
+********************
+Epoch 29: val CE Loss:0.7873; KLD Loss:0; Accuracy:3190/4676=0.6822; Average Acc:0.7265; Kappa:0.835; MSE:0.4855
+[[0.28443114 0.070787   0.03699743 0.00042772 0.        ]
+ [0.04170231 0.08041061 0.06886228 0.00491873 0.        ]
+ [0.01154833 0.0188195  0.1751497  0.04662104 0.        ]
+ [0.         0.00106929 0.00898204 0.10564585 0.00384944]
+ [0.         0.         0.00021386 0.00299401 0.03656972]]
+********************
+Epoch 30: train CE Loss:0.4808; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.5833; Kappa:0.8571; MSE:0.25; lr:0.0001
+Epoch 30: train CE Loss:0.4134; KLD Loss:0; Accuracy:1301/1608=0.8091; Average Acc:0.8423; Kappa:0.9144; MSE:0.2506; lr:0.0001
+Epoch 30: train CE Loss:0.4007; KLD Loss:0; Accuracy:2626/3208=0.8186; Average Acc:0.8535; Kappa:0.9178; MSE:0.2403; lr:0.0001
+Epoch 30: train CE Loss:0.4023; KLD Loss:0; Accuracy:3927/4808=0.8168; Average Acc:0.8498; Kappa:0.918; MSE:0.2388; lr:0.0001
+Epoch 30: train CE Loss:0.415; KLD Loss:0; Accuracy:5214/6408=0.8137; Average Acc:0.8454; Kappa:0.9166; MSE:0.2405; lr:0.0001
+Epoch 30: train CE Loss:0.4081; KLD Loss:0; Accuracy:6493/8008=0.8108; Average Acc:0.8439; Kappa:0.9169; MSE:0.2404; lr:0.0001
+Epoch 30: train CE Loss:0.4178; KLD Loss:0; Accuracy:7736/9608=0.8052; Average Acc:0.8379; Kappa:0.9145; MSE:0.2466; lr:0.0001
+Epoch 30: train CE Loss:0.4224; KLD Loss:0; Accuracy:9016/11208=0.8044; Average Acc:0.8339; Kappa:0.9148; MSE:0.245; lr:0.0001
+Epoch 30: train CE Loss:0.4207; KLD Loss:0; Accuracy:10327/12808=0.8063; Average Acc:0.8359; Kappa:0.9152; MSE:0.2438; lr:0.0001
+Epoch 30: train CE Loss:0.4192; KLD Loss:0; Accuracy:11616/14408=0.8062; Average Acc:0.8368; Kappa:0.9156; MSE:0.2433; lr:0.0001
+Epoch 30: train CE Loss:0.4203; KLD Loss:0; Accuracy:12911/16008=0.8065; Average Acc:0.8377; Kappa:0.9153; MSE:0.2441; lr:0.0001
+Epoch 30: train CE Loss:0.4207; KLD Loss:0; Accuracy:14208/17608=0.8069; Average Acc:0.8383; Kappa:0.9147; MSE:0.2459; lr:0.0001
+Epoch 30: train CE Loss:0.4198; KLD Loss:0; Accuracy:15519/19208=0.8079; Average Acc:0.84; Kappa:0.9147; MSE:0.2449; lr:0.0001
+Epoch 30: train CE Loss:0.4198; KLD Loss:0; Accuracy:16811/20808=0.8079; Average Acc:0.8392; Kappa:0.9145; MSE:0.2462; lr:0.0001
+Epoch 30: train CE Loss:0.4195; KLD Loss:0; Accuracy:18100/22408=0.8077; Average Acc:0.8394; Kappa:0.9145; MSE:0.2465; lr:0.0001
+Epoch 30: train CE Loss:0.4177; KLD Loss:0; Accuracy:19432/24008=0.8094; Average Acc:0.8406; Kappa:0.9155; MSE:0.2438; lr:0.0001
+Epoch 30: train CE Loss:0.4174; KLD Loss:0; Accuracy:20738/25608=0.8098; Average Acc:0.8412; Kappa:0.9154; MSE:0.2437; lr:0.0001
+Epoch 30: train CE Loss:0.4157; KLD Loss:0; Accuracy:22031/27208=0.8097; Average Acc:0.8413; Kappa:0.9159; MSE:0.2429; lr:0.0001
+Epoch 30: train CE Loss:0.4163; KLD Loss:0; Accuracy:23336/28808=0.8101; Average Acc:0.8413; Kappa:0.9157; MSE:0.2436; lr:0.0001
+Epoch 30: train CE Loss:0.4168; KLD Loss:0; Accuracy:24634/30408=0.8101; Average Acc:0.8413; Kappa:0.9157; MSE:0.2437; lr:0.0001
+Epoch 30: train CE Loss:0.4165; KLD Loss:0; Accuracy:25942/32008=0.8105; Average Acc:0.8415; Kappa:0.9159; MSE:0.2431; lr:0.0001
+Epoch 30: train CE Loss:0.4168; KLD Loss:0; Accuracy:26584/32816=0.8101; Average Acc:0.8415; Kappa:0.9157; MSE:0.2433; lr:0.0001
+********************
+Epoch 30: val CE Loss:0.7878; KLD Loss:0; Accuracy:3278/4676=0.701; Average Acc:0.721; Kappa:0.8589; MSE:0.4155
+[[0.31779299 0.05731394 0.01753636 0.         0.        ]
+ [0.06137725 0.0855432  0.04555175 0.00342173 0.        ]
+ [0.01368691 0.03913601 0.1578272  0.0402053  0.00128315]
+ [0.00021386 0.00213858 0.00919589 0.10628743 0.00171086]
+ [0.         0.         0.00021386 0.00598802 0.03357571]]
+********************
+Epoch 31: train CE Loss:0.3538; KLD Loss:0; Accuracy:7/8=0.875; Average Acc: 0.6; Kappa:0.931; MSE:0.125; lr:0.0001
+Epoch 31: train CE Loss:0.4172; KLD Loss:0; Accuracy:1283/1608=0.7979; Average Acc:0.8364; Kappa:0.9161; MSE:0.2407; lr:0.0001
+Epoch 31: train CE Loss:0.4063; KLD Loss:0; Accuracy:2587/3208=0.8064; Average Acc:0.8438; Kappa:0.9161; MSE:0.2397; lr:0.0001
+Epoch 31: train CE Loss:0.3975; KLD Loss:0; Accuracy:3900/4808=0.8111; Average Acc:0.8493; Kappa:0.9196; MSE:0.229; lr:0.0001
+Epoch 31: train CE Loss:0.4031; KLD Loss:0; Accuracy:5208/6408=0.8127; Average Acc:0.8495; Kappa:0.9202; MSE:0.2282; lr:0.0001
+Epoch 31: train CE Loss:0.4001; KLD Loss:0; Accuracy:6517/8008=0.8138; Average Acc:0.8509; Kappa:0.9198; MSE:0.2319; lr:0.0001
+Epoch 31: train CE Loss:0.404; KLD Loss:0; Accuracy:7811/9608=0.813; Average Acc:0.8481; Kappa:0.9194; MSE:0.2329; lr:0.0001
+Epoch 31: train CE Loss:0.4076; KLD Loss:0; Accuracy:9099/11208=0.8118; Average Acc:0.8458; Kappa:0.9191; MSE:0.2341; lr:0.0001
+Epoch 31: train CE Loss:0.4076; KLD Loss:0; Accuracy:10414/12808=0.8131; Average Acc:0.8463; Kappa:0.9196; MSE:0.2331; lr:0.0001
+Epoch 31: train CE Loss:0.4089; KLD Loss:0; Accuracy:11726/14408=0.8139; Average Acc:0.8461; Kappa:0.9198; MSE:0.2326; lr:0.0001
+Epoch 31: train CE Loss:0.4073; KLD Loss:0; Accuracy:13038/16008=0.8145; Average Acc:0.8469; Kappa:0.9206; MSE:0.2304; lr:0.0001
+Epoch 31: train CE Loss:0.4086; KLD Loss:0; Accuracy:14351/17608=0.815; Average Acc:0.847; Kappa:0.9205; MSE:0.2311; lr:0.0001
+Epoch 31: train CE Loss:0.4075; KLD Loss:0; Accuracy:15661/19208=0.8153; Average Acc:0.8476; Kappa:0.9201; MSE:0.2321; lr:0.0001
+Epoch 31: train CE Loss:0.4062; KLD Loss:0; Accuracy:16970/20808=0.8156; Average Acc:0.8478; Kappa:0.9202; MSE:0.231; lr:0.0001
+Epoch 31: train CE Loss:0.4055; KLD Loss:0; Accuracy:18284/22408=0.816; Average Acc:0.848; Kappa:0.9202; MSE:0.2303; lr:0.0001
+Epoch 31: train CE Loss:0.4065; KLD Loss:0; Accuracy:19564/24008=0.8149; Average Acc:0.8469; Kappa:0.9198; MSE:0.2317; lr:0.0001
+Epoch 31: train CE Loss:0.4089; KLD Loss:0; Accuracy:20838/25608=0.8137; Average Acc:0.8457; Kappa:0.9191; MSE:0.2333; lr:0.0001
+Epoch 31: train CE Loss:0.4075; KLD Loss:0; Accuracy:22150/27208=0.8141; Average Acc:0.8462; Kappa:0.9193; MSE:0.233; lr:0.0001
+Epoch 31: train CE Loss:0.4092; KLD Loss:0; Accuracy:23450/28808=0.814; Average Acc:0.8458; Kappa:0.9196; MSE:0.2325; lr:0.0001
+Epoch 31: train CE Loss:0.4081; KLD Loss:0; Accuracy:24735/30408=0.8134; Average Acc:0.8454; Kappa:0.9198; MSE:0.2322; lr:0.0001
+Epoch 31: train CE Loss:0.4074; KLD Loss:0; Accuracy:26057/32008=0.8141; Average Acc:0.8462; Kappa:0.9199; MSE:0.2318; lr:0.0001
+Epoch 31: train CE Loss:0.4089; KLD Loss:0; Accuracy:26697/32816=0.8135; Average Acc:0.8457; Kappa:0.9197; MSE:0.2321; lr:0.0001
+********************
+Epoch 31: val CE Loss:0.7297; KLD Loss:0; Accuracy:3193/4676=0.6828; Average Acc:0.7288; Kappa:0.8564; MSE:0.4083
+[[0.28785287 0.09516681 0.00962361 0.         0.        ]
+ [0.04811805 0.11248931 0.03186484 0.00342173 0.        ]
+ [0.01368691 0.06030796 0.14627887 0.03186484 0.        ]
+ [0.         0.00342173 0.01218991 0.09944397 0.00449102]
+ [0.         0.         0.00021386 0.00278015 0.03678358]]
+********************
+Epoch 32: train CE Loss:0.3669; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.6667; Kappa:0.9412; MSE:0.125; lr:0.0001
+Epoch 32: train CE Loss:0.4078; KLD Loss:0; Accuracy:1322/1608=0.8221; Average Acc:0.8502; Kappa:0.9273; MSE:0.2146; lr:0.0001
+Epoch 32: train CE Loss:0.4219; KLD Loss:0; Accuracy:2634/3208=0.8211; Average Acc:0.8491; Kappa:0.9219; MSE:0.2254; lr:0.0001
+Epoch 32: train CE Loss:0.4094; KLD Loss:0; Accuracy:3932/4808=0.8178; Average Acc:0.85; Kappa:0.9215; MSE:0.2244; lr:0.0001
+Epoch 32: train CE Loss:0.4039; KLD Loss:0; Accuracy:5239/6408=0.8176; Average Acc:0.851; Kappa:0.9199; MSE:0.2294; lr:0.0001
+Epoch 32: train CE Loss:0.4061; KLD Loss:0; Accuracy:6538/8008=0.8164; Average Acc:0.8484; Kappa:0.9207; MSE:0.226; lr:0.0001
+Epoch 32: train CE Loss:0.3973; KLD Loss:0; Accuracy:7882/9608=0.8204; Average Acc:0.8523; Kappa:0.9237; MSE:0.2197; lr:0.0001
+Epoch 32: train CE Loss:0.3994; KLD Loss:0; Accuracy:9162/11208=0.8175; Average Acc:0.8497; Kappa:0.9218; MSE:0.2244; lr:0.0001
+Epoch 32: train CE Loss:0.3957; KLD Loss:0; Accuracy:10480/12808=0.8182; Average Acc:0.8496; Kappa:0.9223; MSE:0.2245; lr:0.0001
+Epoch 32: train CE Loss:0.3974; KLD Loss:0; Accuracy:11785/14408=0.8179; Average Acc:0.8488; Kappa:0.9228; MSE:0.2238; lr:0.0001
+Epoch 32: train CE Loss:0.3953; KLD Loss:0; Accuracy:13097/16008=0.8182; Average Acc:0.8494; Kappa:0.923; MSE:0.2231; lr:0.0001
+Epoch 32: train CE Loss:0.3934; KLD Loss:0; Accuracy:14415/17608=0.8187; Average Acc:0.8501; Kappa:0.9229; MSE:0.2231; lr:0.0001
+Epoch 32: train CE Loss:0.3962; KLD Loss:0; Accuracy:15699/19208=0.8173; Average Acc:0.8494; Kappa:0.9216; MSE:0.2267; lr:0.0001
+Epoch 32: train CE Loss:0.3971; KLD Loss:0; Accuracy:16994/20808=0.8167; Average Acc:0.8484; Kappa:0.9216; MSE:0.2267; lr:0.0001
+Epoch 32: train CE Loss:0.3989; KLD Loss:0; Accuracy:18287/22408=0.8161; Average Acc:0.8474; Kappa:0.9212; MSE:0.2285; lr:0.0001
+Epoch 32: train CE Loss:0.3983; KLD Loss:0; Accuracy:19610/24008=0.8168; Average Acc:0.848; Kappa:0.9214; MSE:0.2281; lr:0.0001
+Epoch 32: train CE Loss:0.3968; KLD Loss:0; Accuracy:20938/25608=0.8176; Average Acc:0.8484; Kappa:0.922; MSE:0.2268; lr:0.0001
+Epoch 32: train CE Loss:0.3968; KLD Loss:0; Accuracy:22245/27208=0.8176; Average Acc:0.8487; Kappa:0.9219; MSE:0.2269; lr:0.0001
+Epoch 32: train CE Loss:0.3986; KLD Loss:0; Accuracy:23537/28808=0.817; Average Acc:0.8484; Kappa:0.9215; MSE:0.2275; lr:0.0001
+Epoch 32: train CE Loss:0.3997; KLD Loss:0; Accuracy:24823/30408=0.8163; Average Acc:0.848; Kappa:0.921; MSE:0.2287; lr:0.0001
+Epoch 32: train CE Loss:0.3999; KLD Loss:0; Accuracy:26126/32008=0.8162; Average Acc:0.8478; Kappa:0.9206; MSE:0.2294; lr:0.0001
+Epoch 32: train CE Loss:0.4012; KLD Loss:0; Accuracy:26769/32816=0.8157; Average Acc:0.8474; Kappa:0.9203; MSE:0.2301; lr:0.0001
+********************
+Epoch 32: val CE Loss:0.7181; KLD Loss:0; Accuracy:3293/4676=0.7042; Average Acc:0.7454; Kappa:0.8611; MSE:0.3969
+[[0.29384089 0.08383234 0.01497006 0.         0.        ]
+ [0.0494012  0.10885372 0.03507271 0.0025663  0.        ]
+ [0.01240376 0.04640719 0.1644568  0.02865697 0.00021386]
+ [0.00021386 0.00278015 0.01240376 0.09987169 0.00427716]
+ [0.         0.         0.00021386 0.00235244 0.03721129]]
+********************
+Epoch 33: train CE Loss:0.2561; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.9375; Kappa:0.9412; MSE:0.125; lr:0.0001
+Epoch 33: train CE Loss:0.376; KLD Loss:0; Accuracy:1340/1608=0.8333; Average Acc:0.8678; Kappa:0.9265; MSE:0.2052; lr:0.0001
+Epoch 33: train CE Loss:0.3846; KLD Loss:0; Accuracy:2633/3208=0.8208; Average Acc:0.8564; Kappa:0.9217; MSE:0.2238; lr:0.0001
+Epoch 33: train CE Loss:0.3876; KLD Loss:0; Accuracy:3949/4808=0.8213; Average Acc:0.8556; Kappa:0.9205; MSE:0.2265; lr:0.0001
+Epoch 33: train CE Loss:0.3858; KLD Loss:0; Accuracy:5271/6408=0.8226; Average Acc:0.8559; Kappa:0.9226; MSE:0.2218; lr:0.0001
+Epoch 33: train CE Loss:0.3872; KLD Loss:0; Accuracy:6592/8008=0.8232; Average Acc:0.8553; Kappa:0.9222; MSE:0.2217; lr:0.0001
+Epoch 33: train CE Loss:0.3849; KLD Loss:0; Accuracy:7925/9608=0.8248; Average Acc:0.8577; Kappa:0.9226; MSE:0.2217; lr:0.0001
+Epoch 33: train CE Loss:0.3886; KLD Loss:0; Accuracy:9228/11208=0.8233; Average Acc:0.8564; Kappa:0.9223; MSE:0.2219; lr:0.0001
+Epoch 33: train CE Loss:0.3882; KLD Loss:0; Accuracy:10547/12808=0.8235; Average Acc:0.8563; Kappa:0.9225; MSE:0.222; lr:0.0001
+Epoch 33: train CE Loss:0.3902; KLD Loss:0; Accuracy:11884/14408=0.8248; Average Acc:0.8573; Kappa:0.9226; MSE:0.2204; lr:0.0001
+Epoch 33: train CE Loss:0.3923; KLD Loss:0; Accuracy:13174/16008=0.823; Average Acc:0.8554; Kappa:0.9223; MSE:0.2218; lr:0.0001
+Epoch 33: train CE Loss:0.3915; KLD Loss:0; Accuracy:14488/17608=0.8228; Average Acc:0.8558; Kappa:0.9227; MSE:0.2206; lr:0.0001
+Epoch 33: train CE Loss:0.392; KLD Loss:0; Accuracy:15820/19208=0.8236; Average Acc:0.856; Kappa:0.9234; MSE:0.2192; lr:0.0001
+Epoch 33: train CE Loss:0.3927; KLD Loss:0; Accuracy:17114/20808=0.8225; Average Acc:0.8548; Kappa:0.923; MSE:0.2207; lr:0.0001
+Epoch 33: train CE Loss:0.3916; KLD Loss:0; Accuracy:18442/22408=0.823; Average Acc:0.8555; Kappa:0.9231; MSE:0.2205; lr:0.0001
+Epoch 33: train CE Loss:0.3933; KLD Loss:0; Accuracy:19739/24008=0.8222; Average Acc:0.8548; Kappa:0.9224; MSE:0.2227; lr:0.0001
+Epoch 33: train CE Loss:0.3935; KLD Loss:0; Accuracy:21050/25608=0.822; Average Acc:0.8544; Kappa:0.9225; MSE:0.2229; lr:0.0001
+Epoch 33: train CE Loss:0.3929; KLD Loss:0; Accuracy:22400/27208=0.8233; Average Acc:0.855; Kappa:0.9232; MSE:0.2213; lr:0.0001
+Epoch 33: train CE Loss:0.3925; KLD Loss:0; Accuracy:23732/28808=0.8238; Average Acc:0.8551; Kappa:0.9237; MSE:0.22; lr:0.0001
+Epoch 33: train CE Loss:0.3928; KLD Loss:0; Accuracy:25028/30408=0.8231; Average Acc:0.8548; Kappa:0.9232; MSE:0.221; lr:0.0001
+Epoch 33: train CE Loss:0.3912; KLD Loss:0; Accuracy:26363/32008=0.8236; Average Acc:0.8552; Kappa:0.9235; MSE:0.2205; lr:0.0001
+Epoch 33: train CE Loss:0.3914; KLD Loss:0; Accuracy:27037/32816=0.8239; Average Acc:0.8555; Kappa:0.9237; MSE:0.2202; lr:0.0001
+********************
+Epoch 33: val CE Loss:0.7792; KLD Loss:0; Accuracy:3172/4676=0.6784; Average Acc:0.7252; Kappa:0.8524; MSE:0.4314
+[[0.28507271 0.09110351 0.01646707 0.         0.        ]
+ [0.04790419 0.09580838 0.04811805 0.0040633  0.        ]
+ [0.01368691 0.03592814 0.15461933 0.04704876 0.00085543]
+ [0.         0.00149701 0.00769889 0.106929   0.00342173]
+ [0.         0.         0.         0.00384944 0.03592814]]
+********************
+Epoch 34: train CE Loss:0.7045; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.7667; Kappa:0.5652; MSE:0.625; lr:0.0001
+Epoch 34: train CE Loss:0.3951; KLD Loss:0; Accuracy:1323/1608=0.8228; Average Acc:0.857; Kappa:0.9248; MSE:0.2139; lr:0.0001
+Epoch 34: train CE Loss:0.3734; KLD Loss:0; Accuracy:2673/3208=0.8332; Average Acc:0.8655; Kappa:0.9307; MSE:0.2011; lr:0.0001
+Epoch 34: train CE Loss:0.37; KLD Loss:0; Accuracy:3997/4808=0.8313; Average Acc:0.8653; Kappa:0.9286; MSE:0.2051; lr:0.0001
+Epoch 34: train CE Loss:0.3796; KLD Loss:0; Accuracy:5292/6408=0.8258; Average Acc:0.8592; Kappa:0.9262; MSE:0.2136; lr:0.0001
+Epoch 34: train CE Loss:0.3792; KLD Loss:0; Accuracy:6624/8008=0.8272; Average Acc:0.8596; Kappa:0.9262; MSE:0.2134; lr:0.0001
+Epoch 34: train CE Loss:0.3799; KLD Loss:0; Accuracy:7949/9608=0.8273; Average Acc:0.8592; Kappa:0.9257; MSE:0.2151; lr:0.0001
+Epoch 34: train CE Loss:0.3789; KLD Loss:0; Accuracy:9261/11208=0.8263; Average Acc:0.8578; Kappa:0.9253; MSE:0.2165; lr:0.0001
+Epoch 34: train CE Loss:0.3843; KLD Loss:0; Accuracy:10561/12808=0.8246; Average Acc:0.8562; Kappa:0.924; MSE:0.2198; lr:0.0001
+Epoch 34: train CE Loss:0.392; KLD Loss:0; Accuracy:11857/14408=0.8229; Average Acc:0.8548; Kappa:0.9223; MSE:0.2245; lr:0.0001
+Epoch 34: train CE Loss:0.3889; KLD Loss:0; Accuracy:13197/16008=0.8244; Average Acc:0.8566; Kappa:0.9228; MSE:0.2226; lr:0.0001
+Epoch 34: train CE Loss:0.3886; KLD Loss:0; Accuracy:14508/17608=0.8239; Average Acc:0.8562; Kappa:0.9228; MSE:0.2227; lr:0.0001
+Epoch 34: train CE Loss:0.3866; KLD Loss:0; Accuracy:15838/19208=0.8246; Average Acc:0.8566; Kappa:0.923; MSE:0.2227; lr:0.0001
+Epoch 34: train CE Loss:0.3859; KLD Loss:0; Accuracy:17144/20808=0.8239; Average Acc:0.8557; Kappa:0.9225; MSE:0.224; lr:0.0001
+Epoch 34: train CE Loss:0.3869; KLD Loss:0; Accuracy:18451/22408=0.8234; Average Acc:0.8552; Kappa:0.9227; MSE:0.2231; lr:0.0001
+Epoch 34: train CE Loss:0.3874; KLD Loss:0; Accuracy:19796/24008=0.8246; Average Acc:0.856; Kappa:0.9234; MSE:0.2212; lr:0.0001
+Epoch 34: train CE Loss:0.3894; KLD Loss:0; Accuracy:21098/25608=0.8239; Average Acc:0.8551; Kappa:0.9229; MSE:0.2223; lr:0.0001
+Epoch 34: train CE Loss:0.3906; KLD Loss:0; Accuracy:22416/27208=0.8239; Average Acc:0.8551; Kappa:0.9226; MSE:0.223; lr:0.0001
+Epoch 34: train CE Loss:0.3914; KLD Loss:0; Accuracy:23738/28808=0.824; Average Acc:0.8554; Kappa:0.9222; MSE:0.2239; lr:0.0001
+Epoch 34: train CE Loss:0.3893; KLD Loss:0; Accuracy:25074/30408=0.8246; Average Acc:0.856; Kappa:0.9225; MSE:0.2233; lr:0.0001
+Epoch 34: train CE Loss:0.3896; KLD Loss:0; Accuracy:26382/32008=0.8242; Average Acc:0.8555; Kappa:0.9222; MSE:0.2245; lr:0.0001
+Epoch 34: train CE Loss:0.3886; KLD Loss:0; Accuracy:27041/32816=0.824; Average Acc:0.8555; Kappa:0.9221; MSE:0.2245; lr:0.0001
+********************
+Epoch 34: val CE Loss:0.8078; KLD Loss:0; Accuracy:3307/4676=0.7072; Average Acc:0.7266; Kappa:0.8622; MSE:0.3941
+[[0.322284   0.06137725 0.00898204 0.         0.        ]
+ [0.07057314 0.09345595 0.02972626 0.00213858 0.        ]
+ [0.0188195  0.0534645  0.16531223 0.01454234 0.        ]
+ [0.         0.00342173 0.02245509 0.08896493 0.00470488]
+ [0.         0.         0.00042772 0.00213858 0.03721129]]
+********************
+Epoch 35: train CE Loss:0.208; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.95; Kappa:0.9701; MSE:0.125; lr:0.0001
+Epoch 35: train CE Loss:0.3898; KLD Loss:0; Accuracy:1338/1608=0.8321; Average Acc:0.8579; Kappa:0.9209; MSE:0.2351; lr:0.0001
+Epoch 35: train CE Loss:0.373; KLD Loss:0; Accuracy:2675/3208=0.8339; Average Acc:0.8619; Kappa:0.9243; MSE:0.2229; lr:0.0001
+Epoch 35: train CE Loss:0.3735; KLD Loss:0; Accuracy:4007/4808=0.8334; Average Acc:0.8612; Kappa:0.9245; MSE:0.2194; lr:0.0001
+Epoch 35: train CE Loss:0.3735; KLD Loss:0; Accuracy:5352/6408=0.8352; Average Acc:0.8615; Kappa:0.9267; MSE:0.2129; lr:0.0001
+Epoch 35: train CE Loss:0.3719; KLD Loss:0; Accuracy:6671/8008=0.833; Average Acc:0.8616; Kappa:0.9259; MSE:0.2147; lr:0.0001
+Epoch 35: train CE Loss:0.3839; KLD Loss:0; Accuracy:7970/9608=0.8295; Average Acc:0.8591; Kappa:0.9246; MSE:0.2176; lr:0.0001
+Epoch 35: train CE Loss:0.3865; KLD Loss:0; Accuracy:9300/11208=0.8298; Average Acc:0.8586; Kappa:0.9252; MSE:0.2159; lr:0.0001
+Epoch 35: train CE Loss:0.3861; KLD Loss:0; Accuracy:10622/12808=0.8293; Average Acc:0.8579; Kappa:0.9254; MSE:0.2153; lr:0.0001
+Epoch 35: train CE Loss:0.3831; KLD Loss:0; Accuracy:11959/14408=0.83; Average Acc:0.8591; Kappa:0.9257; MSE:0.2145; lr:0.0001
+Epoch 35: train CE Loss:0.3829; KLD Loss:0; Accuracy:13271/16008=0.829; Average Acc:0.8589; Kappa:0.9248; MSE:0.216; lr:0.0001
+Epoch 35: train CE Loss:0.3815; KLD Loss:0; Accuracy:14590/17608=0.8286; Average Acc:0.859; Kappa:0.9247; MSE:0.2162; lr:0.0001
+Epoch 35: train CE Loss:0.382; KLD Loss:0; Accuracy:15903/19208=0.8279; Average Acc:0.8583; Kappa:0.9242; MSE:0.2178; lr:0.0001
+Epoch 35: train CE Loss:0.3841; KLD Loss:0; Accuracy:17202/20808=0.8267; Average Acc:0.8573; Kappa:0.9236; MSE:0.22; lr:0.0001
+Epoch 35: train CE Loss:0.3828; KLD Loss:0; Accuracy:18531/22408=0.827; Average Acc:0.8578; Kappa:0.924; MSE:0.2185; lr:0.0001
+Epoch 35: train CE Loss:0.3831; KLD Loss:0; Accuracy:19856/24008=0.8271; Average Acc:0.8578; Kappa:0.9241; MSE:0.2179; lr:0.0001
+Epoch 35: train CE Loss:0.3831; KLD Loss:0; Accuracy:21193/25608=0.8276; Average Acc:0.8583; Kappa:0.9238; MSE:0.2186; lr:0.0001
+Epoch 35: train CE Loss:0.3812; KLD Loss:0; Accuracy:22551/27208=0.8288; Average Acc:0.8592; Kappa:0.9243; MSE:0.2175; lr:0.0001
+Epoch 35: train CE Loss:0.3798; KLD Loss:0; Accuracy:23882/28808=0.829; Average Acc:0.8594; Kappa:0.9246; MSE:0.2166; lr:0.0001
+Epoch 35: train CE Loss:0.3784; KLD Loss:0; Accuracy:25220/30408=0.8294; Average Acc:0.8593; Kappa:0.9252; MSE:0.2158; lr:0.0001
+Epoch 35: train CE Loss:0.3786; KLD Loss:0; Accuracy:26552/32008=0.8295; Average Acc:0.8592; Kappa:0.9253; MSE:0.2151; lr:0.0001
+Epoch 35: train CE Loss:0.3782; KLD Loss:0; Accuracy:27220/32816=0.8295; Average Acc:0.8593; Kappa:0.9255; MSE:0.2148; lr:0.0001
+********************
+Epoch 35: val CE Loss:0.8034; KLD Loss:0; Accuracy:3317/4676=0.7094; Average Acc:0.7342; Kappa:0.8613; MSE:0.4018
+[[0.31715141 0.06030796 0.01518392 0.         0.        ]
+ [0.06693755 0.09067579 0.03571429 0.0025663  0.        ]
+ [0.01561163 0.04704876 0.16638152 0.02309666 0.        ]
+ [0.00042772 0.00235244 0.01368691 0.0988024  0.00427716]
+ [0.         0.         0.00021386 0.00320787 0.03635586]]
+********************
+Epoch 36: train CE Loss:0.286; KLD Loss:0; Accuracy:7/8=0.875; Average Acc:0.9167; Kappa:0.8667; MSE:0.125; lr:0.0001
+Epoch 36: train CE Loss:0.3692; KLD Loss:0; Accuracy:1342/1608=0.8346; Average Acc:0.8644; Kappa:0.9244; MSE:0.2139; lr:0.0001
+Epoch 36: train CE Loss:0.3523; KLD Loss:0; Accuracy:2705/3208=0.8432; Average Acc:0.8714; Kappa:0.9339; MSE:0.1914; lr:0.0001
+Epoch 36: train CE Loss:0.3571; KLD Loss:0; Accuracy:4055/4808=0.8434; Average Acc:0.8712; Kappa:0.9319; MSE:0.197; lr:0.0001
+Epoch 36: train CE Loss:0.359; KLD Loss:0; Accuracy:5394/6408=0.8418; Average Acc:0.8708; Kappa:0.9286; MSE:0.2058; lr:0.0001
+Epoch 36: train CE Loss:0.3542; KLD Loss:0; Accuracy:6736/8008=0.8412; Average Acc:0.87; Kappa:0.9297; MSE:0.2033; lr:0.0001
+Epoch 36: train CE Loss:0.3588; KLD Loss:0; Accuracy:8058/9608=0.8387; Average Acc:0.8673; Kappa:0.9283; MSE:0.208; lr:0.0001
+Epoch 36: train CE Loss:0.3587; KLD Loss:0; Accuracy:9394/11208=0.8382; Average Acc:0.8674; Kappa:0.9288; MSE:0.2065; lr:0.0001
+Epoch 36: train CE Loss:0.3607; KLD Loss:0; Accuracy:10722/12808=0.8371; Average Acc:0.8668; Kappa:0.9278; MSE:0.2092; lr:0.0001
+Epoch 36: train CE Loss:0.3628; KLD Loss:0; Accuracy:12051/14408=0.8364; Average Acc:0.8665; Kappa:0.9279; MSE:0.2087; lr:0.0001
+Epoch 36: train CE Loss:0.3632; KLD Loss:0; Accuracy:13366/16008=0.835; Average Acc:0.8655; Kappa:0.9275; MSE:0.2107; lr:0.0001
+Epoch 36: train CE Loss:0.3606; KLD Loss:0; Accuracy:14726/17608=0.8363; Average Acc:0.8667; Kappa:0.9281; MSE:0.2084; lr:0.0001
+Epoch 36: train CE Loss:0.3592; KLD Loss:0; Accuracy:16065/19208=0.8364; Average Acc:0.8664; Kappa:0.9283; MSE:0.2087; lr:0.0001
+Epoch 36: train CE Loss:0.3598; KLD Loss:0; Accuracy:17382/20808=0.8354; Average Acc:0.8652; Kappa:0.9278; MSE:0.2103; lr:0.0001
+Epoch 36: train CE Loss:0.3631; KLD Loss:0; Accuracy:18735/22408=0.8361; Average Acc:0.8656; Kappa:0.9278; MSE:0.2097; lr:0.0001
+Epoch 36: train CE Loss:0.3627; KLD Loss:0; Accuracy:20084/24008=0.8366; Average Acc:0.8658; Kappa:0.9283; MSE:0.2088; lr:0.0001
+Epoch 36: train CE Loss:0.3636; KLD Loss:0; Accuracy:21417/25608=0.8363; Average Acc:0.8654; Kappa:0.9283; MSE:0.2088; lr:0.0001
+Epoch 36: train CE Loss:0.3631; KLD Loss:0; Accuracy:22753/27208=0.8363; Average Acc:0.8651; Kappa:0.9283; MSE:0.2088; lr:0.0001
+Epoch 36: train CE Loss:0.3642; KLD Loss:0; Accuracy:24090/28808=0.8362; Average Acc:0.8654; Kappa:0.928; MSE:0.2091; lr:0.0001
+Epoch 36: train CE Loss:0.3641; KLD Loss:0; Accuracy:25436/30408=0.8365; Average Acc:0.8661; Kappa:0.9275; MSE:0.2097; lr:0.0001
+Epoch 36: train CE Loss:0.3667; KLD Loss:0; Accuracy:26723/32008=0.8349; Average Acc:0.8643; Kappa:0.9268; MSE:0.2119; lr:0.0001
+Epoch 36: train CE Loss:0.3682; KLD Loss:0; Accuracy:27387/32816=0.8346; Average Acc:0.864; Kappa:0.9264; MSE:0.2127; lr:0.0001
+********************
+Epoch 36: val CE Loss:0.795; KLD Loss:0; Accuracy:3239/4676=0.6927; Average Acc:0.7202; Kappa:0.8415; MSE:0.4525
+[[0.29341317 0.07142857 0.02737382 0.00042772 0.        ]
+ [0.05517536 0.08490163 0.05175364 0.0040633  0.        ]
+ [0.01261762 0.03336185 0.18135158 0.02480753 0.        ]
+ [0.00064157 0.00128315 0.01753636 0.09794696 0.00213858]
+ [0.         0.         0.00021386 0.00449102 0.03507271]]
+********************
+Epoch 37: train CE Loss:0.3141; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.8125; Kappa:0.6875; MSE:0.625; lr:0.0001
+Epoch 37: train CE Loss:0.3555; KLD Loss:0; Accuracy:1363/1608=0.8476; Average Acc:0.8733; Kappa:0.9271; MSE:0.2027; lr:0.0001
+Epoch 37: train CE Loss:0.3334; KLD Loss:0; Accuracy:2737/3208=0.8532; Average Acc:0.8811; Kappa:0.9331; MSE:0.1861; lr:0.0001
+Epoch 37: train CE Loss:0.3405; KLD Loss:0; Accuracy:4089/4808=0.8505; Average Acc:0.8769; Kappa:0.9329; MSE:0.1857; lr:0.0001
+Epoch 37: train CE Loss:0.3467; KLD Loss:0; Accuracy:5414/6408=0.8449; Average Acc:0.8743; Kappa:0.9293; MSE:0.1968; lr:0.0001
+Epoch 37: train CE Loss:0.3478; KLD Loss:0; Accuracy:6766/8008=0.8449; Average Acc:0.8745; Kappa:0.9289; MSE:0.1978; lr:0.0001
+Epoch 37: train CE Loss:0.3489; KLD Loss:0; Accuracy:8110/9608=0.8441; Average Acc:0.8731; Kappa:0.9285; MSE:0.1999; lr:0.0001
+Epoch 37: train CE Loss:0.3494; KLD Loss:0; Accuracy:9461/11208=0.8441; Average Acc:0.8718; Kappa:0.9281; MSE:0.2031; lr:0.0001
+Epoch 37: train CE Loss:0.3505; KLD Loss:0; Accuracy:10802/12808=0.8434; Average Acc:0.8711; Kappa:0.9279; MSE:0.2028; lr:0.0001
+Epoch 37: train CE Loss:0.3526; KLD Loss:0; Accuracy:12145/14408=0.8429; Average Acc:0.8705; Kappa:0.9278; MSE:0.2038; lr:0.0001
+Epoch 37: train CE Loss:0.3506; KLD Loss:0; Accuracy:13485/16008=0.8424; Average Acc:0.8707; Kappa:0.9281; MSE:0.2034; lr:0.0001
+Epoch 37: train CE Loss:0.3504; KLD Loss:0; Accuracy:14827/17608=0.8421; Average Acc:0.8705; Kappa:0.9281; MSE:0.2036; lr:0.0001
+Epoch 37: train CE Loss:0.3504; KLD Loss:0; Accuracy:16178/19208=0.8423; Average Acc:0.8699; Kappa:0.9285; MSE:0.203; lr:0.0001
+Epoch 37: train CE Loss:0.3509; KLD Loss:0; Accuracy:17526/20808=0.8423; Average Acc:0.8699; Kappa:0.9291; MSE:0.2021; lr:0.0001
+Epoch 37: train CE Loss:0.352; KLD Loss:0; Accuracy:18873/22408=0.8422; Average Acc:0.8696; Kappa:0.9293; MSE:0.2022; lr:0.0001
+Epoch 37: train CE Loss:0.3526; KLD Loss:0; Accuracy:20213/24008=0.8419; Average Acc:0.8701; Kappa:0.9292; MSE:0.2028; lr:0.0001
+Epoch 37: train CE Loss:0.3539; KLD Loss:0; Accuracy:21544/25608=0.8413; Average Acc:0.8692; Kappa:0.929; MSE:0.2035; lr:0.0001
+Epoch 37: train CE Loss:0.3516; KLD Loss:0; Accuracy:22914/27208=0.8422; Average Acc:0.8702; Kappa:0.9297; MSE:0.2023; lr:0.0001
+Epoch 37: train CE Loss:0.352; KLD Loss:0; Accuracy:24263/28808=0.8422; Average Acc:0.8703; Kappa:0.93; MSE:0.2015; lr:0.0001
+Epoch 37: train CE Loss:0.3521; KLD Loss:0; Accuracy:25607/30408=0.8421; Average Acc:0.8705; Kappa:0.9297; MSE:0.2025; lr:0.0001
+Epoch 37: train CE Loss:0.3515; KLD Loss:0; Accuracy:26955/32008=0.8421; Average Acc:0.8705; Kappa:0.9301; MSE:0.2016; lr:0.0001
+Epoch 37: train CE Loss:0.3524; KLD Loss:0; Accuracy:27629/32816=0.8419; Average Acc:0.8701; Kappa:0.93; MSE:0.202; lr:0.0001
+********************
+Epoch 37: val CE Loss:0.817; KLD Loss:0; Accuracy:3198/4676=0.6839; Average Acc:0.7211; Kappa:0.846; MSE:0.4226
+[[0.2581266  0.11056459 0.0239521  0.         0.        ]
+ [0.03293413 0.11184773 0.04790419 0.00320787 0.        ]
+ [0.00705731 0.04041916 0.18135158 0.02331052 0.        ]
+ [0.         0.00106929 0.01689478 0.09987169 0.00171086]
+ [0.         0.         0.00021386 0.00684346 0.03272027]]
+********************
+Epoch 38: train CE Loss:0.411; KLD Loss:0; Accuracy:6/8=0.75; Average Acc:0.75; Kappa:0.8889; MSE:0.25; lr:0.0001
+Epoch 38: train CE Loss:0.3407; KLD Loss:0; Accuracy:1357/1608=0.8439; Average Acc:0.8717; Kappa:0.9291; MSE:0.2083; lr:0.0001
+Epoch 38: train CE Loss:0.3407; KLD Loss:0; Accuracy:2699/3208=0.8413; Average Acc:0.8731; Kappa:0.9282; MSE:0.2095; lr:0.0001
+Epoch 38: train CE Loss:0.3508; KLD Loss:0; Accuracy:4029/4808=0.838; Average Acc:0.8697; Kappa:0.926; MSE:0.2126; lr:0.0001
+Epoch 38: train CE Loss:0.3467; KLD Loss:0; Accuracy:5402/6408=0.843; Average Acc:0.8742; Kappa:0.9289; MSE:0.2043; lr:0.0001
+Epoch 38: train CE Loss:0.351; KLD Loss:0; Accuracy:6741/8008=0.8418; Average Acc:0.8722; Kappa:0.9297; MSE:0.2009; lr:0.0001
+Epoch 38: train CE Loss:0.3485; KLD Loss:0; Accuracy:8085/9608=0.8415; Average Acc:0.8718; Kappa:0.9296; MSE:0.2013; lr:0.0001
+Epoch 38: train CE Loss:0.3512; KLD Loss:0; Accuracy:9426/11208=0.841; Average Acc:0.8709; Kappa:0.93; MSE:0.2002; lr:0.0001
+Epoch 38: train CE Loss:0.3493; KLD Loss:0; Accuracy:10775/12808=0.8413; Average Acc:0.8712; Kappa:0.9303; MSE: 0.2; lr:0.0001
+Epoch 38: train CE Loss:0.3536; KLD Loss:0; Accuracy:12110/14408=0.8405; Average Acc:0.87; Kappa:0.9299; MSE:0.2009; lr:0.0001
+Epoch 38: train CE Loss:0.3548; KLD Loss:0; Accuracy:13466/16008=0.8412; Average Acc:0.8699; Kappa:0.93; MSE:0.2006; lr:0.0001
+Epoch 38: train CE Loss:0.3526; KLD Loss:0; Accuracy:14826/17608=0.842; Average Acc:0.8708; Kappa:0.9305; MSE:0.1995; lr:0.0001
+Epoch 38: train CE Loss:0.351; KLD Loss:0; Accuracy:16185/19208=0.8426; Average Acc:0.8713; Kappa:0.9311; MSE:0.1982; lr:0.0001
+Epoch 38: train CE Loss:0.3512; KLD Loss:0; Accuracy:17511/20808=0.8416; Average Acc:0.8708; Kappa:0.9302; MSE:0.2002; lr:0.0001
+Epoch 38: train CE Loss:0.3523; KLD Loss:0; Accuracy:18847/22408=0.8411; Average Acc:0.8703; Kappa:0.9301; MSE:0.2008; lr:0.0001
+Epoch 38: train CE Loss:0.3524; KLD Loss:0; Accuracy:20177/24008=0.8404; Average Acc:0.8696; Kappa:0.93; MSE:0.2017; lr:0.0001
+Epoch 38: train CE Loss:0.3511; KLD Loss:0; Accuracy:21518/25608=0.8403; Average Acc:0.87; Kappa:0.93; MSE:0.2019; lr:0.0001
+Epoch 38: train CE Loss:0.3503; KLD Loss:0; Accuracy:22894/27208=0.8414; Average Acc:0.8706; Kappa:0.9307; MSE: 0.2; lr:0.0001
+Epoch 38: train CE Loss:0.3506; KLD Loss:0; Accuracy:24227/28808=0.841; Average Acc:0.8701; Kappa:0.9304; MSE:0.2009; lr:0.0001
+Epoch 38: train CE Loss:0.3497; KLD Loss:0; Accuracy:25560/30408=0.8406; Average Acc:0.8698; Kappa:0.9301; MSE:0.2015; lr:0.0001
+Epoch 38: train CE Loss:0.3514; KLD Loss:0; Accuracy:26890/32008=0.8401; Average Acc:0.8692; Kappa:0.9303; MSE:0.2011; lr:0.0001
+Epoch 38: train CE Loss:0.3524; KLD Loss:0; Accuracy:27555/32816=0.8397; Average Acc:0.869; Kappa:0.9303; MSE:0.201; lr:0.0001
+********************
+Epoch 38: val CE Loss:0.8126; KLD Loss:0; Accuracy:3219/4676=0.6884; Average Acc:0.7156; Kappa:0.848; MSE:0.4401
+[[0.30260907 0.06757913 0.02224123 0.00021386 0.        ]
+ [0.06437126 0.07399487 0.05474765 0.00278015 0.        ]
+ [0.01518392 0.0320787  0.17686056 0.0280154  0.        ]
+ [0.00021386 0.00128315 0.01625321 0.09923011 0.0025663 ]
+ [0.         0.         0.00021386 0.00384944 0.03571429]]
+********************
+Epoch 39: train CE Loss:0.1447; KLD Loss:0; Accuracy:7/8=0.875; Average Acc: 0.6; Kappa:0.973; MSE:0.125; lr:0.0001
+Epoch 39: train CE Loss:0.3778; KLD Loss:0; Accuracy:1334/1608=0.8296; Average Acc:0.8545; Kappa:0.9204; MSE:0.2332; lr:0.0001
+Epoch 39: train CE Loss:0.3504; KLD Loss:0; Accuracy:2699/3208=0.8413; Average Acc:0.8683; Kappa:0.9248; MSE:0.2173; lr:0.0001
+Epoch 39: train CE Loss:0.336; KLD Loss:0; Accuracy:4065/4808=0.8455; Average Acc:0.8728; Kappa:0.9305; MSE:0.2028; lr:0.0001
+Epoch 39: train CE Loss:0.3454; KLD Loss:0; Accuracy:5390/6408=0.8411; Average Acc:0.8693; Kappa:0.9288; MSE:0.2068; lr:0.0001
+Epoch 39: train CE Loss:0.342; KLD Loss:0; Accuracy:6768/8008=0.8452; Average Acc:0.8728; Kappa:0.9301; MSE:0.2014; lr:0.0001
+Epoch 39: train CE Loss:0.3399; KLD Loss:0; Accuracy:8138/9608=0.847; Average Acc:0.8741; Kappa:0.9313; MSE:0.1978; lr:0.0001
+Epoch 39: train CE Loss:0.3381; KLD Loss:0; Accuracy:9511/11208=0.8486; Average Acc:0.8757; Kappa:0.9323; MSE:0.1951; lr:0.0001
+Epoch 39: train CE Loss:0.3383; KLD Loss:0; Accuracy:10892/12808=0.8504; Average Acc:0.8768; Kappa:0.9336; MSE:0.1916; lr:0.0001
+Epoch 39: train CE Loss:0.3405; KLD Loss:0; Accuracy:12241/14408=0.8496; Average Acc:0.8763; Kappa:0.9329; MSE:0.1938; lr:0.0001
+Epoch 39: train CE Loss:0.3384; KLD Loss:0; Accuracy:13612/16008=0.8503; Average Acc:0.8776; Kappa:0.9329; MSE:0.1937; lr:0.0001
+Epoch 39: train CE Loss:0.3368; KLD Loss:0; Accuracy:14983/17608=0.8509; Average Acc:0.8784; Kappa:0.9331; MSE:0.193; lr:0.0001
+Epoch 39: train CE Loss:0.339; KLD Loss:0; Accuracy:16340/19208=0.8507; Average Acc:0.8784; Kappa:0.9332; MSE:0.1926; lr:0.0001
+Epoch 39: train CE Loss:0.3452; KLD Loss:0; Accuracy:17662/20808=0.8488; Average Acc:0.8766; Kappa:0.9323; MSE:0.1949; lr:0.0001
+Epoch 39: train CE Loss:0.3466; KLD Loss:0; Accuracy:18985/22408=0.8472; Average Acc:0.8755; Kappa:0.9322; MSE:0.1956; lr:0.0001
+Epoch 39: train CE Loss:0.3472; KLD Loss:0; Accuracy:20338/24008=0.8471; Average Acc:0.8756; Kappa:0.9324; MSE:0.1955; lr:0.0001
+Epoch 39: train CE Loss:0.3472; KLD Loss:0; Accuracy:21675/25608=0.8464; Average Acc:0.8753; Kappa:0.9322; MSE:0.1958; lr:0.0001
+Epoch 39: train CE Loss:0.3459; KLD Loss:0; Accuracy:23013/27208=0.8458; Average Acc:0.8749; Kappa:0.9321; MSE:0.1965; lr:0.0001
+Epoch 39: train CE Loss:0.3481; KLD Loss:0; Accuracy:24344/28808=0.845; Average Acc:0.8742; Kappa:0.9314; MSE:0.1983; lr:0.0001
+Epoch 39: train CE Loss:0.3474; KLD Loss:0; Accuracy:25708/30408=0.8454; Average Acc:0.8742; Kappa:0.9318; MSE:0.1971; lr:0.0001
+Epoch 39: train CE Loss:0.3478; KLD Loss:0; Accuracy:27055/32008=0.8453; Average Acc:0.8735; Kappa:0.9317; MSE:0.1976; lr:0.0001
+Epoch 39: train CE Loss:0.348; KLD Loss:0; Accuracy:27724/32816=0.8448; Average Acc:0.8733; Kappa:0.9316; MSE:0.1976; lr:0.0001
+********************
+Epoch 39: val CE Loss:0.8186; KLD Loss:0; Accuracy:3289/4676=0.7034; Average Acc:0.7364; Kappa:0.8444; MSE:0.4425
+[[0.29491018 0.07164243 0.02609068 0.         0.        ]
+ [0.05153978 0.09516681 0.04726262 0.00171086 0.00021386]
+ [0.01753636 0.036142   0.1817793  0.01668092 0.        ]
+ [0.00021386 0.00192472 0.01817793 0.09431138 0.00491873]
+ [0.         0.         0.00021386 0.00235244 0.03721129]]
+********************
